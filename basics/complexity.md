@@ -20,6 +20,8 @@ O(n^3): N square Complexity 立方
 O(2^n): Exponential Growth 指数
 O(n!): Factorial 阶乘
 ```
+![](./complexity/1.jpg)
+![](./complexity/2.jpg)
 
 >注意：
     只看复杂度最高的运算
