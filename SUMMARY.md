@@ -2,12 +2,12 @@
 
 * [前言](README.md)
 
-* [算法数据结构]()
+* [算法数据结构](basics/readme.md)
   * [算法和数据结构](basics/algorithm_and_data_structure.md)
   * [刷题技巧](basics/skills.md)
   * [时间/空间复杂度](basics/complexity.md)
   * [数组 array](basics/array.md)
-  * [链表 list](basics/list.md)
+  * [链表 list](basics/linked_list.md)
   * [队列和栈](basics/queue_stack.md)
   * [哈希表](basics/hash_table.md)
 * [leetcode]()
