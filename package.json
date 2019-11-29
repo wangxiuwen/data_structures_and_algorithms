@@ -1,0 +1,16 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wangxiuwen/interview.git",
+  "author": "wangxiuwen <wangxiuwen>",
+  "license": "MIT",
+  "scripts": {
+    "install:plugin": "npx gitbook install",
+    "build": "npx gitbook build",
+    "serve": "gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
