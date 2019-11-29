@@ -10,11 +10,11 @@ google： queue java 10
 2. 取出操作： O(log n) 按照元素优先级取出
 3. 底层具体实现数据结构较为复杂： heap, bst(二叉搜索树，平衡二叉搜索树(比如说红黑树或者 AVL))，treap
 
-[Java 的 PriorityQueue 文档](https://docs.oracle.com/javase/10/docs/api/java/util/PriorityQueue.html)
-[Java 的 Stack 源码](http://developer.classpath.org/doc/java/util/Stack-source.html)
-[Java 的 Queue 源码](http://fuseyism.com/classpath/doc/java/util/Queue-source.html)
-[Python 的 heapq](https://docs.python.org/2/library/heapq.html)
-[高性能的 container 库](https://docs.python.org/2/library/collections.html)
+[Java 的 PriorityQueue 文档](https://docs.oracle.com/javase/10/docs/api/java/util/PriorityQueue.html)  
+[Java 的 Stack 源码](http://developer.classpath.org/doc/java/util/Stack-source.html)  
+[Java 的 Queue 源码](http://fuseyism.com/classpath/doc/java/util/Queue-source.html)  
+[Python 的 heapq](https://docs.python.org/2/library/heapq.html)  
+[高性能的 container 库](https://docs.python.org/2/library/collections.html)  
 
 ## 复杂度
 
