@@ -1,8 +1,4 @@
-# 队列和栈
-
-## 栈
-
->用数组实现的栈，我们叫作顺序栈，用链表实现的栈，我们叫作链式栈
+# 队列
 
 ## 查看文档方式
 
@@ -15,7 +11,6 @@ google： queue java 10
 3. 底层具体实现数据结构较为复杂： heap, bst(二叉搜索树，平衡二叉搜索树(比如说红黑树或者 AVL))，treap
 
 [Java 的 PriorityQueue 文档](https://docs.oracle.com/javase/10/docs/api/java/util/PriorityQueue.html)  
-[Java 的 Stack 源码](http://developer.classpath.org/doc/java/util/Stack-source.html)  
 [Java 的 Queue 源码](http://fuseyism.com/classpath/doc/java/util/Queue-source.html)  
 [Python 的 heapq](https://docs.python.org/2/library/heapq.html)  
 [高性能的 container 库](https://docs.python.org/2/library/collections.html)  
@@ -24,9 +19,13 @@ google： queue java 10
 
 [bigocheatsheet](https://www.bigocheatsheet.com/)
 
-
 ## 小结
 
-1. stack, queue, Deque 的原理和操作复杂度
+1. queue, Deque 的原理和操作复杂度
 2. PriorityQueue 的特点和操作复杂度
-3. 查询 Stack, Queue, Deque, Priority Queue 的系统接口的方法
+3. 查询 Queue, Deque, Priority Queue 的系统接口的方法
+
+
+## leetcode
+
+20,155,232,844,224,682,496
