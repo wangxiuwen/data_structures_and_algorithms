@@ -50,6 +50,10 @@ google： queue java 10
 3. 查询 Queue, Deque, Priority Queue 的系统接口的方法
 
 
+## 延伸
+
+[无锁队列的实现](https://coolshell.cn/articles/8239.html)
+
 ## leetcode
 
 20,155,232,844,224,682,496
