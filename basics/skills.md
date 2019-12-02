@@ -36,9 +36,9 @@ code review
 ## 切题四件套
 
 - clarification 明确数据范围
-- Possible Solution 所有可能选最优
-- compare(time/space)
-- optimal(加强)
+- Possible Solution ---> compare(time/space) optimal 所有可能选最优
+- code
+- test cases
 
 
 ## 数据结构
