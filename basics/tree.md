@@ -69,5 +69,9 @@ def postorder(self, root):
     self.postorder(root.left)
     self.postorder(root.right)
     self.traverse_path(root.val)
-    
+
 ```
+
+## 二叉搜索树
+
+二叉搜索树，也称为二叉搜索树
