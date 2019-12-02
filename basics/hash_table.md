@@ -25,3 +25,10 @@ set.hash(value)
 ```
 
 > python 中 map 为 `dict`， set 是 `set`
+
+
+# leetcode
+
+```
+242
+```

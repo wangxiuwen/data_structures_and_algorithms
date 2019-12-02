@@ -24,4 +24,5 @@
   * [155.最小栈](leetcode/problems/155.min-stack.md)
   * [206.反转列表](leetcode/problems/206.reverse-linked-list.md)
   * [239.滑动窗口最大值](leetcode/problems/239.sliding-window-maximum.md)
+  * [242.有效的字母异位词](leetcode/problems/242.valid-anagram.md)
   * [283.移动零](leetcode/problems/283.move-zeroes.md)
