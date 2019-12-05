@@ -130,12 +130,11 @@ head = null;
 
 ## 练习题
 
->单链表反转  
-链表中环的检测  
-两个有序的链表合并  
-删除链表倒数第n个结点  
-求链表的中间结点 
+[206.单链表反转](https://leetcode-cn.com/problems/reverse-linked-list/)  
+[141.链表中环的检测](https://leetcode-cn.com/problems/linked-list-cycle/)  
+[21.两个有序的链表合并](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  
+[19.删除链表倒数第n个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
+[876.求链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  
 
-206，141，21，19，876
 
 
