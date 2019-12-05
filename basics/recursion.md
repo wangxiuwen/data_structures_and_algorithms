@@ -72,3 +72,10 @@ public void recur(int level, int param) {
   // restore current status
 }
 ```
+
+## 思维要点
+
+- 不要人肉递归
+- 找到最近重复子问题
+- 数学归纳法思维
+
