@@ -4,6 +4,7 @@
 写递归代码的关键就是找到如何将大问题分解为小问题的规律，并且基于此写出递推公式，然后再推敲终止条件，最后将递推公式和终止条件翻译成代码  
 编写递归代码的关键是，只要遇到递归，我们就把它抽象成一个递推公式，不用想一层层的调用关系，不要试图用人脑去分解递归的每个步骤  
 
+递归与循环没有明显的边界，它是通过函数体来进行的循环
 
 ## 界定问题能否用递归解决
 
@@ -33,3 +34,20 @@
 
 笼统地讲，递归代码都能用迭代循环来替换  
 
+## python 代码模版
+
+```python
+def recursion(level, param1, param2,...):
+  # recuision terminator 递归终结条件
+  if level > MAX_LEVEL:
+    process_result
+    return
+  
+  # process logic in current level 处理当前层逻辑
+  process(level, data...)
+
+  # drill down 下探到下一层
+  self.recursion(level+1, p1,...)
+
+  # reverse the current level status if needed 清理当前层
+```
