@@ -1,4 +1,4 @@
-# 分治
+# 分治 && 回溯
 
 代码模版
 
@@ -25,3 +25,10 @@ def devide_conquer(problem, param1, param2, ...):
 
   # revert the current level states
 ```
+
+
+
+# leetcode
+
+[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
