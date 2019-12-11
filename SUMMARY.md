@@ -13,6 +13,7 @@
   * [哈希表](basics/hash_table.md)
   * [递归](basics/recursion.md)
   * [树](basics/tree.md)
+  * [深度优先搜索 & 广度优先搜索](basics/bst.md)
   * [分治 回溯](basics/devide_conquer.md)
   * [动态规划](basics/dynamic_programming.md)
 * [leetcode]()
