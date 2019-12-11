@@ -26,7 +26,13 @@ def devide_conquer(problem, param1, param2, ...):
   # revert the current level states
 ```
 
+## 技巧
 
+1. 人肉递归低效、很累
+2. 找到最近最简方法，将其拆解成可重复解决的问题
+3. 数学归纳法思维(抵制人肉递归的诱惑)
+
+>本质: 寻找重复性 -> 计算机指令集
 
 # leetcode
 

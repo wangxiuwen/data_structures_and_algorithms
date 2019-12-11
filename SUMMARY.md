@@ -13,7 +13,7 @@
   * [哈希表](basics/hash_table.md)
   * [递归](basics/recursion.md)
   * [树](basics/tree.md)
-  * [分治 回溯](basics/devide.md)
+  * [分治 回溯](basics/devide_conquer.md)
 * [leetcode]()
   * [1.两数之和](leetcode/problems/1.two-sum.md)
   * [11.盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
