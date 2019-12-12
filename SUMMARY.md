@@ -14,6 +14,7 @@
   * [递归](basics/recursion.md)
   * [树](basics/tree.md)
   * [分治 回溯](basics/devide.md)
+  * [贪心算法 Greedy](basics/greedy.md)
 * [leetcode]()
   * [1.两数之和](leetcode/problems/1.two-sum.md)
   * [11.盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
