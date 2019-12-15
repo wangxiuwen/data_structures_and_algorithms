@@ -128,6 +128,10 @@ head = null;
 }
 ```
 
+## 跳跃表
+
+<http://redisbook.com/preview/skiplist/content.html>
+
 ## 练习题
 
 [206.单链表反转](https://leetcode-cn.com/problems/reverse-linked-list/)  
