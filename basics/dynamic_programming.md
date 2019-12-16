@@ -16,3 +16,35 @@ https://en.wikipedia.org/wiki/Dynamic_programming
 共性： 找到重复子问题  
 差异性： 最优子结构、中途可以淘汰次优解  
 
+## 自底向上
+
+转化递归为 递推
+
+
+## 状态转移方程/动态规划方程/DP方程
+
+```python
+opt[i,j] = opt[i+1,j] + opt[i,j+1]
+```
+
+完整逻辑:
+
+```python
+if a[i,j] == '空地':
+  opt[i+1,j] + opt[i,j+1]
+else:
+  opt[i,j] = 0
+```
+
+## 动态规划关键点
+
+1. 最优子结构 opt[n] = best_of(opt[n-1]+ opt[n-2], ...)
+2. 存储中间状态 opt[i]
+3. 递推公式 (状态转移方程或者 DP方程)
+
+    fib: opt[i] = opt[n-1]+opt[n-2]
+    二维路径: opt[i,j] = opt[i+1][j]+opt[i][j+1] (且判断 a[i,j] 是否是空地)
+
+
+![dynamic_programming](./dynamic_programming/count_the_paths.png)
+![dynamic_programming](./dynamic_programming/count_the_paths_2.png)
