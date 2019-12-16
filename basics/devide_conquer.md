@@ -3,7 +3,7 @@
 代码模版
 
 ```python
-def devide_conquer(problem, param1, param2, ...):
+def divide_conquer(problem, param1, param2, ...):
   # recursion terminator
   if problem is None:
     print_result
@@ -14,9 +14,9 @@ def devide_conquer(problem, param1, param2, ...):
   subproblems = split_problem(problem, data)
 
   # conquer subproblems
-  subresult1 = self.devide_conquer(subproblems[0], p1, ...)
-  subresult2 = self.devide_conquer(subproblems[1], p1, ...)
-  subresult3 = self.devede_conquer(subproblems[2], p1, ...)
+  subresult1 = self.divide_conquer(subproblems[0], p1, ...)
+  subresult2 = self.divide_conquer(subproblems[1], p1, ...)
+  subresult3 = self.divide_conquer(subproblems[2], p1, ...)
 
   ...
 
