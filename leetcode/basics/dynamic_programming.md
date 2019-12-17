@@ -50,11 +50,6 @@ else:
 ![dynamic_programming](./dynamic_programming/count_the_paths_2.png)
 
 
-## leetcode
-
-[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
-[63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
-
 ## 动态规划小结
 
 1. 打破自己的思维惯性，形成机器思维
@@ -65,3 +60,9 @@ else:
 ## 参考资料
 
 [MIT课程】动态规划 I - 最短路径算法（已添加字幕）](https://www.bilibili.com/video/av53233912?from=search&seid=2847395688604491997)
+
+## leetcode
+
+[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+[63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
