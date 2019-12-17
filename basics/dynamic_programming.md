@@ -55,3 +55,13 @@ else:
 [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
 
+## 动态规划小结
+
+1. 打破自己的思维惯性，形成机器思维
+2. 理解复杂逻辑的关键
+3. 也是职业进阶的要点要领
+
+
+## 参考资料
+
+[MIT课程】动态规划 I - 最短路径算法（已添加字幕）](https://www.bilibili.com/video/av53233912?from=search&seid=2847395688604491997)
