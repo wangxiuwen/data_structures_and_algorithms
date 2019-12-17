@@ -63,6 +63,6 @@ else:
 
 ## leetcode
 
-[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
-[63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
-[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)
+[63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)

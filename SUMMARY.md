@@ -23,6 +23,8 @@
   * [15.三数之和](leetcode/problems/15.3sum.md)
   * [20.有效的括号](leetcode/problems/20.valid-parentheses.md)
   * [22.括号生成](leetcode/problems/22.generate-parentheses.md)
+  * [62.不同路径](leetcode/problems/62.unique-paths.md)
+  * [63.不同路径 II](leetcode/problems/63.unique-paths-ii.md)
   * [70.爬楼梯](leetcode/problems/70.climbing-stairs.md)
   * [84.柱状图中最大的矩形](leetcode/problems/84.largest-rectangle-in-histogram.md)
   * [125.验证回文串](leetcode/problems/125.valid-palindrome.md)
