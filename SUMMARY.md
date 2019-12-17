@@ -32,3 +32,4 @@
   * [239.滑动窗口最大值](leetcode/problems/239.sliding-window-maximum.md)
   * [242.有效的字母异位词](leetcode/problems/242.valid-anagram.md)
   * [283.移动零](leetcode/problems/283.move-zeroes.md)
+  * [1143.最长公共子序列](leetcode/problems/1143.longest-common-subsequence.md)
