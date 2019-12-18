@@ -65,4 +65,5 @@ else:
 
 [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)
 [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 [1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
