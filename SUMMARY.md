@@ -30,6 +30,7 @@
   * [84. 柱状图中最大的矩形](leetcode/problems/84.largest-rectangle-in-histogram.md)
   * [125. 验证回文串](leetcode/problems/125.valid-palindrome.md)
   * [141. 环形链表](leetcode/problems/141.linked-list-cycle.md)
+  * [152. 最小栈](leetcode/problems/152.maximum-product-subarray.md)
   * [155. 最小栈](leetcode/problems/155.min-stack.md)
   * [206. 反转列表](leetcode/problems/206.reverse-linked-list.md)
   * [239. 滑动窗口最大值](leetcode/problems/239.sliding-window-maximum.md)
