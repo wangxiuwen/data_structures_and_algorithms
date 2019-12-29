@@ -16,6 +16,7 @@
   * [深度优先搜索 & 广度优先搜索](leetcode/basics/bst.md)
   * [分治 回溯](leetcode/basics/devide_conquer.md)
   * [贪心算法 Greedy](leetcode/basics/greedy.md)
+  * [二分查找](leetcode/basics/binary.md)
   * [动态规划](leetcode/basics/dynamic_programming.md)
 * [leetcode]()
   * [1. 两数之和](leetcode/problems/1.two-sum.md)
