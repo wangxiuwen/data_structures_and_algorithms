@@ -24,6 +24,7 @@
   * [15. 三数之和](leetcode/problems/15.3sum.md)
   * [20. 有效的括号](leetcode/problems/20.valid-parentheses.md)
   * [22. 括号生成](leetcode/problems/22.generate-parentheses.md)
+  * [33. 搜索旋转排序数组](leetcode/problems/33.search-in-rotated-sorted-array.md)
   * [53. 最大子序和](leetcode/problems/53.maximum-subarray.md)
   * [62. 不同路径](leetcode/problems/62.unique-paths.md)
   * [63. 不同路径 II](leetcode/problems/63.unique-paths-ii.md)
