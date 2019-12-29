@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Dynamic_programming
 
 ## 自底向上
 
-转化递归为 递推
+转化递归为 递推  
 
 
 ## 状态转移方程/动态规划方程/DP方程
@@ -69,9 +69,9 @@ else:
 
 ## leetcode
 
-[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)
-[63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
-[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
-[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
-[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)
-[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
+[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
+[63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
+[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  
+[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)  
+[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)  
