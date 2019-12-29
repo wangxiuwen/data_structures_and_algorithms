@@ -50,6 +50,12 @@ else:
 ![dynamic_programming](./dynamic_programming/count_the_paths_2.png)
 
 
+## 感触
+
+1. 人肉递归低效、很累 
+2. 找到最近最简方法，将其拆解成可重复解决的问题
+3. 数学归纳法思维(抵制人肉递归的诱惑)
+
 ## 动态规划小结
 
 1. 打破自己的思维惯性，形成机器思维
