@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Dynamic_programming
 
 ## 自底向上
 
-转化递归为 递推
+转化递归为 递推  
 
 
 ## 状态转移方程/动态规划方程/DP方程
@@ -50,6 +50,12 @@ else:
 ![dynamic_programming](./dynamic_programming/count_the_paths_2.png)
 
 
+## 感触
+
+1. 人肉递归低效、很累 
+2. 找到最近最简方法，将其拆解成可重复解决的问题
+3. 数学归纳法思维(抵制人肉递归的诱惑)
+
 ## 动态规划小结
 
 1. 打破自己的思维惯性，形成机器思维
@@ -63,9 +69,9 @@ else:
 
 ## leetcode
 
-[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)
-[63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
-[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
-[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
-[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)
-[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
+[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
+[63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
+[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  
+[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)  
+[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)  
