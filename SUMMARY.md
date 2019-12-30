@@ -17,6 +17,7 @@
   * [分治 回溯](leetcode/basics/devide_conquer.md)
   * [贪心算法 Greedy](leetcode/basics/greedy.md)
   * [动态规划](leetcode/basics/dynamic_programming.md)
+  * [高级搜索](leetcode/basics/search.md)
 * [leetcode]()
   * [1. 两数之和](leetcode/problems/1.two-sum.md)
   * [11. 盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
