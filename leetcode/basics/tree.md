@@ -83,6 +83,7 @@ def postorder(self, root):
 
 中序遍历：升序排列
 
+二叉搜索树 查询操作时间复杂度 O(logn)
 
 ## 问题
 
