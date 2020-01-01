@@ -1,4 +1,4 @@
-# hash table
+# 哈希表
 
 哈希表(hash table)， 也叫散列表，是根据关键码值(key value) 而直接进行访问的数据结构
 它通过贝把关键码值映射到表中的一个位置来访问记录，以加快查找的速度。
@@ -27,7 +27,12 @@ set.hash(value)
 > python 中 map 为 `dict`， set 是 `set`
 
 
-# leetcode
+## 源码阅读
+
+- Java hash set
+- Java hash map(hash node, tree node, 看懂put、get)
+
+## leetcode
 
 ```
 242

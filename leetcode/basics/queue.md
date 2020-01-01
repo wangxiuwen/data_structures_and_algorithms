@@ -54,6 +54,19 @@ google： queue java 10
 
 [无锁队列的实现](https://coolshell.cn/articles/8239.html)
 
+## 源码阅读
+
+- Java queue
+- Java deque
+- Java priority queue(取出：O(logn), 插入O(1))
+
+vector 是线程安全的， ArrayList 不是
+
+## 思考
+
+- 用栈模拟队列 --> 用两个栈
+- 用队列模拟栈 
+
 ## leetcode
 
 20,155,232,844,224,682,496
