@@ -34,7 +34,9 @@ set.hash(value)
 
 ## 跳表
 
-
+查询： O(logn)
+更新/删除： O(logn)
+空间复杂度: O(n)
 
 ## leetcode
 
