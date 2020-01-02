@@ -10,8 +10,8 @@
 [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  
 [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)   
-70  
-15  
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
+[15. 三数之和](https://leetcode-cn.com/problems/3sum/)  
 [回文链表 234](https://leetcode-cn.com/problems/palindrome-linked-list/)  
 [单链表反转 206](https://leetcode-cn.com/problems/reverse-linked-list/)  
 [链表中环的检测 141](https://leetcode-cn.com/problems/linked-list-cycle/)    
