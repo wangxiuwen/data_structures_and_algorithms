@@ -12,12 +12,12 @@
 [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)   
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
 [15. 三数之和](https://leetcode-cn.com/problems/3sum/)  
-[回文链表 234](https://leetcode-cn.com/problems/palindrome-linked-list/)  
-[单链表反转 206](https://leetcode-cn.com/problems/reverse-linked-list/)  
-[链表中环的检测 141](https://leetcode-cn.com/problems/linked-list-cycle/)    
-[两个有序的链表合并 21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  
-[删除链表倒数第 n 个结点 19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
-[求链表的中间结点:876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  
+[234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  
+[206. 单链表反转](https://leetcode-cn.com/problems/reverse-linked-list/)  
+[141. 链表中环的检测](https://leetcode-cn.com/problems/linked-list-cycle/)    
+[21. 两个有序的链表合并](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  
+[19. 删除链表倒数第 n 个结点 ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
+[876. 求链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  
 
 ## 哈希表
 
