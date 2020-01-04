@@ -24,6 +24,7 @@
   * [1. 两数之和](leetcode/problems/1.two-sum.md)
   * [11. 盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
   * [15. 三数之和](leetcode/problems/15.3sum.md)
+  * [19. 删除链表的倒数第N个节点](leetcode/problems/19.remove-nth-node-from-end-of-list)
   * [20. 有效的括号](leetcode/problems/20.valid-parentheses.md)
   * [22. 括号生成](leetcode/problems/22.generate-parentheses.md)
   * [33. 搜索旋转排序数组](leetcode/problems/33.search-in-rotated-sorted-array.md)
@@ -40,4 +41,5 @@
   * [239. 滑动窗口最大值](leetcode/problems/239.sliding-window-maximum.md)
   * [242. 有效的字母异位词](leetcode/problems/242.valid-anagram.md)
   * [283. 移动零](leetcode/problems/283.move-zeroes.md)
+  * [876. 链表的中间结点](leetcode/problems/middle-of-the-linked-list.md)
   * [1143. 最长公共子序列](leetcode/problems/1143.longest-common-subsequence.md)
