@@ -25,9 +25,9 @@
 
 ## 栈
 
-[有效的括号：20](https://leetcode-cn.com/problems/valid-parentheses/)  
-[接雨水：42](https://leetcode-cn.com/problems/trapping-rain-water/)  
-155  
+[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  
+[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  
+[155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 84  
 239  
 
