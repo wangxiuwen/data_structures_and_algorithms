@@ -25,10 +25,10 @@
 
 ## 栈
 
-[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  
-[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  
-[155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
-84  
+[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)   
+[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)   
+[155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   
+[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  
 239  
 
 
