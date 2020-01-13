@@ -27,6 +27,7 @@
   * [22. 括号生成](leetcode/problems/22.generate-parentheses.md)
   * [24. 两两交换链表中的节点](leetcode/problems/24.swap-nodes-in-pairs.md)
   * [25. K 个一组翻转链表](leetcode/problems/25.reverse-nodes-in-k-group.md)
+  * [26. 删除排序数组中的重复项](leetcode/problems/26.remove-duplicates-from-sorted-array.md)
   * [33. 搜索旋转排序数组](leetcode/problems/33.search-in-rotated-sorted-array.md)
   * [42. 接雨水](leetcode/problems/42.trapping-rain-water.md)
   * [53. 最大子序和](leetcode/problems/53.maximum-subarray.md)
