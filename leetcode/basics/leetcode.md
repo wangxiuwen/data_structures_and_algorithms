@@ -61,8 +61,11 @@
 
 ## 树
 
-[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  
+[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
+[](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)  
+[](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)  
+[](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)  
 
 ## 分治
 
