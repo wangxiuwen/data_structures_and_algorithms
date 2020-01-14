@@ -48,7 +48,7 @@
 
 ## 队列
 
-[最近的请求次数：933](https://leetcode-cn.com/problems/number-of-recent-calls/)  
+[933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)  
 
 
 ## 递归
