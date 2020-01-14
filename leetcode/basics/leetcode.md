@@ -19,13 +19,13 @@
 [206. 单链表反转](https://leetcode-cn.com/problems/reverse-linked-list/) 
 [141. 链表中环的检测](https://leetcode-cn.com/problems/linked-list-cycle/)  
 [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  
-[19. 删除链表倒数第 n 个结点 ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) 
+[19. 删除链表倒数第 n 个结点 ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  
 [21. 两个有序的链表合并](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  
 [876. 求链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  
-[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)
-[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
-[142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)
-[26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  
+[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)  
+[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)  
+[142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)  
+[26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   
 [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)  
 [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
  
@@ -44,9 +44,9 @@
 
 ## 哈希表
 
-[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
-[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
-[1. 两数之和](https://leetcode-cn.com/problems/two-sum/) 
+[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  
+[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  
+[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)   
 
 ## 队列
 
