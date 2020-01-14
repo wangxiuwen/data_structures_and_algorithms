@@ -39,6 +39,7 @@
   * [141. 环形链表](leetcode/problems/141.linked-list-cycle.md)
   * [152. 最小栈](leetcode/problems/152.maximum-product-subarray.md)
   * [155. 最小栈](leetcode/problems/155.min-stack.md)
+  * [189. 旋转数组](leetcode/problems/189.rotate-array.md)
   * [206. 反转列表](leetcode/problems/206.reverse-linked-list.md)
   * [239. 滑动窗口最大值](leetcode/problems/239.sliding-window-maximum.md)
   * [242. 有效的字母异位词](leetcode/problems/242.valid-anagram.md)
