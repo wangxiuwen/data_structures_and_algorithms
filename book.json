@@ -4,7 +4,17 @@
   },
   "plugins": [
     "anchor-navigation-ex",
-    "toggle-chapters"
+    "hide-element",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "splitter",
+    "-lunr", 
+    "-search", 
+    "search-pro",
+    "insert-logo",
+    "tbfed-pagefooter",
+    "popup"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
@@ -26,6 +36,18 @@
           "level1Icon": "fa fa-hand-o-right",
           "level2Icon": "fa fa-hand-o-right",
           "level3Icon": "fa fa-hand-o-right"
+      },
+      "hide-element": {
+        "elements": [".gitbook-link"]
+      },
+      "insert-logo": {
+        "url": "images/logo.jpg",
+        "style": "background: none; max-height: 30px; min-height: 30px"
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright &copy wangxiuwen.com 2020",
+        "modify_label": "该文章修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
       }
     }
   }
