@@ -57,7 +57,7 @@
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)    
 [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)   
 [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  
-104(树)  
+[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)   
 [](https://leetcode-cn.com/problems/invert-binary-tree/description/)  
 [](https://leetcode-cn.com/problems/validate-binary-search-tree)  
 [](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  
