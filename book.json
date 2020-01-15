@@ -3,7 +3,8 @@
     "website": "styles/website.css"
   },
   "plugins": [
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "toggle-chapters"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
