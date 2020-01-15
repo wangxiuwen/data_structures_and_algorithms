@@ -2,7 +2,6 @@
 
 * [算法数据结构](leetcode/basics/algorithm_and_data_structure.md)
   * [leetcode 讲解资源推荐](leetcode/basics/recommend.md)
-  * [leetcode 题目对照表](leetcode/basics/leetcode.md)
   * [刷题技巧](leetcode/basics/skills.md)
   * [时间/空间复杂度](leetcode/basics/complexity.md)
   * [数组 array](leetcode/basics/array.md)
@@ -20,6 +19,7 @@
   * [动态规划](leetcode/basics/dynamic_programming.md)
   * [高级搜索](leetcode/basics/search.md)
 * [leetcode](leetcode/problems/readme.md)
+  * [leetcode 题目对照表](leetcode/basics/leetcode.md)
   * [1. 两数之和](leetcode/problems/1.two-sum.md)
   * [11. 盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
   * [15. 三数之和](leetcode/problems/15.3sum.md)
