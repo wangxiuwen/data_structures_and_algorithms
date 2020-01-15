@@ -19,7 +19,7 @@
   * [二分查找](leetcode/basics/binary.md)
   * [动态规划](leetcode/basics/dynamic_programming.md)
   * [高级搜索](leetcode/basics/search.md)
-* [leetcode]()
+* [leetcode](leetcode/problems/readme.md)
   * [1. 两数之和](leetcode/problems/1.two-sum.md)
   * [11. 盛最多水的容器](leetcode/problems/11.container-with-most-water.md)
   * [15. 三数之和](leetcode/problems/15.3sum.md)
