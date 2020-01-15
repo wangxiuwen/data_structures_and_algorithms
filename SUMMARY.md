@@ -1,6 +1,7 @@
 # 目录
 
 * [算法数据结构](leetcode/basics/algorithm_and_data_structure.md)
+  * [leetcode 讲解资源推荐](leetcode/basics/recommend.md)
   * [leetcode 题目对照表](leetcode/basics/leetcode.md)
   * [刷题技巧](leetcode/basics/skills.md)
   * [时间/空间复杂度](leetcode/basics/complexity.md)
