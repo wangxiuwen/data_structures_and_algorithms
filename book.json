@@ -12,7 +12,6 @@
     "-lunr", 
     "-search", 
     "search-pro",
-    "insert-logo",
     "tbfed-pagefooter",
     "popup"
   ],
@@ -39,10 +38,6 @@
       },
       "hide-element": {
         "elements": [".gitbook-link"]
-      },
-      "insert-logo": {
-        "url": "images/logo.jpg",
-        "style": "background: none; max-height: 30px; min-height: 30px"
       },
       "tbfed-pagefooter": {
         "copyright":"Copyright &copy wangxiuwen.com 2020",
