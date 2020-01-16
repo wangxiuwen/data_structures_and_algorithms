@@ -60,7 +60,7 @@
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)   
 [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  
 [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  
-[](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  
+[297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  
 [](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
 [](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)  
 [](https://leetcode-cn.com/problems/combinations/)  
