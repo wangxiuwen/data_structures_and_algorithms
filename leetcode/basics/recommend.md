@@ -9,6 +9,7 @@
 
 [花花酱 YouTube](https://www.youtube.com/user/xxfflower)
 [花花酱LeetCode B](https://space.bilibili.com/9880352)
+[花花酱代码](https://zxi.mytechroad.com/blog/)
 
 ## Back To Back SWE
 
