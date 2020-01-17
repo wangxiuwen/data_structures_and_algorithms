@@ -56,9 +56,9 @@
 
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)    
 [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)   
-[46. 全排列](https://leetcode-cn.com/problems/combinations/)  
-[47. 全排列 II](https://leetcode-cn.com/problems/permutations/)   
-[](https://leetcode-cn.com/problems/permutations-ii/)   
+[](https://leetcode-cn.com/problems/combinations/)  
+[46. 全排列](https://leetcode-cn.com/problems/permutations/)   
+[47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)   
 
 ## 树/递归
 
@@ -135,9 +135,4 @@
 242  
 56  
 493  
-
-
-## 参考资料:
-
-[数据结构和算法动态可视化](https://visualgo.net/zh)
 
