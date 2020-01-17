@@ -25,10 +25,18 @@
 
 [nat8023](https://space.bilibili.com/149758)
 
-## 参考资料
+## 公瑾
+
+[个人主页](http://yuzhoujr.com/)
+[源码](https://github.com/yuzhoujr/LeetCode)
+
+## 王争
 
 [王争的 数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)    
 
+## 参考资料
+
+[数据结构和算法动态可视化](https://visualgo.net/zh)
 
 ## 附件
 
