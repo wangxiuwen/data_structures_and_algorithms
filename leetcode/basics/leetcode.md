@@ -77,7 +77,7 @@
 
 ## 分治
 
-50  
+[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 
 78(子集)  
 17  
 51  
