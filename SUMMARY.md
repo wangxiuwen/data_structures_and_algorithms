@@ -38,6 +38,7 @@
   * [63. 不同路径 II](leetcode/problems/63.unique-paths-ii.md)  
   * [66. 加一](leetcode/problems/66.plus-one.md)
   * [70. 爬楼梯](leetcode/problems/70.climbing-stairs.md)
+  * [78. 子集](leetcode/problems/78.subsets.md)
   * [84. 柱状图中最大的矩形](leetcode/problems/84.largest-rectangle-in-histogram.md)
   * [125. 验证回文串](leetcode/problems/125.valid-palindrome.md)
   * [141. 环形链表](leetcode/problems/141.linked-list-cycle.md)

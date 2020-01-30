@@ -78,7 +78,7 @@
 ## 分治
 
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 
-78(子集)  
+[78. 子集](https://leetcode-cn.com/problems/subsets/) 
 17  
 51  
 
