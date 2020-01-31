@@ -32,6 +32,8 @@
   * [26. 删除排序数组中的重复项](leetcode/problems/26.remove-duplicates-from-sorted-array.md)
   * [33. 搜索旋转排序数组](leetcode/problems/33.search-in-rotated-sorted-array.md)
   * [42. 接雨水](leetcode/problems/42.trapping-rain-water.md)
+  * [46. 全排列](leetcode/problems/46.permutations.md)
+  * [47. 全排列 II](leetcode/problems/47.permutations-ii.md)
   * [50. Pow(x, n)](leetcode/problems/50.powx-n.md)
   * [53. 最大子序和](leetcode/problems/53.maximum-subarray.md)
   * [62. 不同路径](leetcode/problems/62.unique-paths.md)
