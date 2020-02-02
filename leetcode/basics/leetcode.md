@@ -80,7 +80,7 @@
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 
 [78. 子集](https://leetcode-cn.com/problems/subsets/) 
 [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
-51  
+[51. N皇后](https://leetcode-cn.com/problems/n-queens/)  
 
 ## BFS/DFS
 
