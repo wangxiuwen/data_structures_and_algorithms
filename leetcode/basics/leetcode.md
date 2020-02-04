@@ -85,7 +85,7 @@
 ## BFS/DFS
 
 [102. 二叉树的层次遍历 (高频题排名前三)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-433
+[433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
 [22. 括号生成(DFS，BFS 也可)](https://leetcode-cn.com/problems/generate-parentheses/) 
 [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 
