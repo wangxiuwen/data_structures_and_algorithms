@@ -20,7 +20,6 @@ Java 平台
     - 安全类库
     - jdk.management
     - 海量的第三方类库
-
   - Java 虚拟机
     - 垃圾收集器
     - 运行时
