@@ -1,6 +1,8 @@
 # 目录
 
-* [Java 常见面试题](Java/problems.md)
+* [Java 常见面试题](Java/readme.md)
+  * [基础知识](Java/Java_Platform.md)
+  * [Exception 和 Error有什么区别](Java/Exception_Error.md)
 * [算法数据结构](leetcode/basics/algorithm_and_data_structure.md)
   * [时间/空间复杂度](leetcode/basics/complexity.md)
   * [数组 array](leetcode/basics/array.md)
