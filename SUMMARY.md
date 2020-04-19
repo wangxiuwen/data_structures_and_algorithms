@@ -40,16 +40,20 @@
   * [47. 全排列 II](leetcode/problems/47.permutations-ii.md)
   * [50. Pow(x, n)](leetcode/problems/50.powx-n.md)
   * [53. 最大子序和](leetcode/problems/53.maximum-subarray.md)
+  * [56.](leetcode/problems/56.merge-intervals.md)
   * [62. 不同路径](leetcode/problems/62.unique-paths.md)
   * [63. 不同路径 II](leetcode/problems/63.unique-paths-ii.md)  
   * [66. 加一](leetcode/problems/66.plus-one.md)
   * [70. 爬楼梯](leetcode/problems/70.climbing-stairs.md)
+  * [75. ](leetcode/problems/75.sort-colors.md)
   * [78. 子集](leetcode/problems/78.subsets.md)
+  * [79. ](leetcode/problems/179.largest-number.md)
   * [84. 柱状图中最大的矩形](leetcode/problems/84.largest-rectangle-in-histogram.md)
   * [125. 验证回文串](leetcode/problems/125.valid-palindrome.md)
   * [141. 环形链表](leetcode/problems/141.linked-list-cycle.md)
   * [152. 最小栈](leetcode/problems/152.maximum-product-subarray.md)
   * [155. 最小栈](leetcode/problems/155.min-stack.md)
+  * [164. ](leetcode/problems/164.maximum-gap.md)
   * [189. 旋转数组](leetcode/problems/189.rotate-array.md)
   * [200. 岛屿数量](leetcode/problems/200.number-of-islands.md)
   * [206. 反转列表](leetcode/problems/206.reverse-linked-list.md)
@@ -61,3 +65,8 @@
   * [590. N叉树的后序遍历](leetcode/problems/590.n-ary-tree-postorder-traversal.md)
   * [876. 链表的中间结点](leetcode/problems/middle-of-the-linked-list.md)
   * [1143. 最长公共子序列](leetcode/problems/1143.longest-common-subsequence.md)
+
+new file:   
+	modified:   
+	new file:   
+	new file:   
