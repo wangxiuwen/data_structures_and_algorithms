@@ -65,8 +65,4 @@
   * [590. N叉树的后序遍历](leetcode/problems/590.n-ary-tree-postorder-traversal.md)
   * [876. 链表的中间结点](leetcode/problems/middle-of-the-linked-list.md)
   * [1143. 最长公共子序列](leetcode/problems/1143.longest-common-subsequence.md)
-
-new file:   
-	modified:   
-	new file:   
-	new file:   
+ 
