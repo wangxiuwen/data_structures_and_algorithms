@@ -11,6 +11,7 @@
   * [栈](leetcode/basics/stack.md)
   * [哈希表](leetcode/basics/hash_table.md)
   * [递归](leetcode/basics/recursion.md)
+  * [排序](leetcode/basics/sort.md)
   * [LRU Cache](leetcode/basics/lru_cache.md)
   * [树](leetcode/basics/tree.md)
   * [深度优先搜索 & 广度优先搜索](leetcode/basics/bst.md)
