@@ -65,3 +65,49 @@ public void selectionSort(int[] a){
   }
 }
 ```
+
+## 归并排序
+
+```Java
+public void mergeSort(int[] a, int low, int high) {
+    if (low >= high) return;
+
+    int mid = (low + high) >>> 1;
+
+    mergeSort(a, low, mid);
+    mergeSort(a, mid+1, high);
+
+    merge(a, low, mid, high);
+}
+
+public void merge(int[] a, int low, int mid, int high) {
+
+    int i = low;
+    int j = mid + 1;
+    int k = 0;
+    int[] tmp = new int[high-low+1];
+
+    while(i <= mid && j <= high) {
+        if(a[i] <= a[j]) {
+            tmp[k++] = a[i++];
+        } else {
+            tmp[k++] = a[j++];
+        }
+    }
+
+    int start = i;
+    int end = mid;
+    if (j <= high) {
+        start = j;
+        end = high;
+    }
+
+    while (start <= end) {
+        tmp[k++] = a[start++];
+    }
+
+    for (int l = 0; l < high-low+1; l++) {
+        a[low+l] = tmp[l];
+    }
+}
+```
