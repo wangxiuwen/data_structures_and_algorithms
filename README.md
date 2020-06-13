@@ -1,50 +1,70 @@
-# 资源推荐
+# 目录
 
-## labuladong
-
-[labuladong](https://fudonglai.github.io/)  
-[labuladong 的整理](https://labuladong.gitbook.io/algo/)  
+* [资源](resources/)
+  * [资源推荐](resources/recommand.md)
+  * [附件](resources/attachments.md)
+* [算法数据结构](basics/algorithm_and_data_structure.md)
+  * [时间/空间复杂度](basics/complexity.md)
+  * [数组 array](basics/array.md)
+  * [链表 linked list](basics/linked_list.md)
+  * [队列](basics/queue.md)
+  * [栈](basics/stack.md)
+  * [哈希表](basics/hash_table.md)
+  * [递归](basics/recursion.md)
+  * [排序](basics/sort.md)
+  * [LRU Cache](basics/lru_cache.md)
+  * [树](basics/tree.md)
+  * [深度优先搜索 & 广度优先搜索](basics/bst.md)
+  * [分治 回溯](basics/devide_conquer.md)
+  * [贪心算法 Greedy](basics/greedy.md)
+  * [二分查找](basics/binary.md)
+  * [动态规划](basics/dynamic_programming.md)
+  * [高级搜索](basics/search.md)
+  * [刷题技巧](basics/skills.md)
+* [leetcode](leetcode/readme.md)
+  * [1. 两数之和](leetcode/1.two-sum.md)
+  * [11. 盛最多水的容器](leetcode/11.container-with-most-water.md)
+  * [15. 三数之和](leetcode/15.3sum.md)
+  * [17. 电话号码的字母组合](leetcode/17.letter-combinations-of-a-phone-number.md)
+  * [19. 删除链表的倒数第N个节点](leetcode/19.remove-nth-node-from-end-of-list.md)
+  * [20. 有效的括号](leetcode/20.valid-parentheses.md)
+  * [21. 合并两个有序链表](leetcode/21.merge-two-sorted-lists.md)
+  * [22. 括号生成](leetcode/22.generate-parentheses.md)
+  * [24. 两两交换链表中的节点](leetcode/24.swap-nodes-in-pairs.md)
+  * [25. K 个一组翻转链表](leetcode/25.reverse-nodes-in-k-group.md)
+  * [26. 删除排序数组中的重复项](leetcode/26.remove-duplicates-from-sorted-array.md)
+  * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
+  * [42. 接雨水](leetcode/42.trapping-rain-water.md)
+  * [46. 全排列](leetcode/46.permutations.md)
+  * [47. 全排列 II](leetcode/47.permutations-ii.md)
+  * [50. Pow(x, n)](leetcode/50.powx-n.md)
+  * [53. 最大子序和](leetcode/53.maximum-subarray.md)
+  * [56.](leetcode/56.merge-intervals.md)
+  * [62. 不同路径](leetcode/62.unique-paths.md)
+  * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
+  * [66. 加一](leetcode/66.plus-one.md)
+  * [70. 爬楼梯](leetcode/70.climbing-stairs.md)
+  * [75. ](leetcode/75.sort-colors.md)
+  * [78. 子集](leetcode/78.subsets.md)
+  * [79. ](leetcode/179.largest-number.md)
+  * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
+  * [125. 验证回文串](leetcode/125.valid-palindrome.md)
+  * [141. 环形链表](leetcode/141.linked-list-cycle.md)
+  * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
+  * [155. 最小栈](leetcode/155.min-stack.md)
+  * [164. ](leetcode/164.maximum-gap.md)
+  * [189. 旋转数组](leetcode/189.rotate-array.md)
+  * [200. 岛屿数量](leetcode/200.number-of-islands.md)
+  * [206. 反转列表](leetcode/206.reverse-linked-list.md)
+  * [239. 滑动窗口最大值](leetcode/239.sliding-window-maximum.md)
+  * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
+  * [283. 移动零](leetcode/283.move-zeroes.md)
+  * [297. 二叉树的序列化与反序列化](leetcode/297.serialize-and-deserialize-binary-tree.md)
+  * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
+  * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
+  * [876. 链表的中间结点](leetcode/middle-of-the-linked-list.md)
+  * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
  
-## 花花酱
-
-[花花酱 YouTube](https://www.youtube.com/user/xxfflower)  
-[花花酱LeetCode B](https://space.bilibili.com/9880352)  
-[花花酱代码](https://zxi.mytechroad.com/blog/)  
-[花花酱题目分类](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit)  
-
-## Back To Back SWE
-
-[Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)  
-
-## 绵羊教授
-
-[绵羊教授](https://space.bilibili.com/354892788)  
-
-## 小Q刷题
-
-[nat8023](https://space.bilibili.com/149758)
-
-## 公瑾
-
-[个人主页](http://yuzhoujr.com/)
-[源码](https://github.com/yuzhoujr/LeetCode)
-
-## 王争
-
-[王争的 数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)    
-
-## 参考资料
-
-[数据结构和算法动态可视化](https://visualgo.net/zh)
-
-## 附件
-
-<a href="resources/《数据结构与算法之美》打卡表.numbers" target="_blank">《数据结构与算法之美》打卡表.numbers</a>   
-<a href="resources/《数据结构与算法之美》打卡表.xlsx" target="_blank">《数据结构与算法之美》打卡表.xlsx</a>  
-<a href="resources/花花酱 LeetCode 题目分类.xlsx" target="_blank">花花酱 LeetCode 题目分类.xlsx</a>  
-<a href="resources/数据结构知识结构脑图.xmind" target="_blank">数据结构知识结构脑图.xmind</a>  
-<a href="resources/算法知识结构脑图.xmind" target="_blank">算法知识结构脑图.xmind</a>
-<a href="resources/数据结构与算法之美.xmind" target="_blank">数据结构与算法之美.xmind</a>
 
 
 # 数据结构 leetcode 练习题目对照表
