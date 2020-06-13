@@ -18,7 +18,6 @@
   * [动态规划](basics/dynamic_programming.md)
   * [高级搜索](basics/search.md)
   * [刷题技巧](basics/skills.md)
-  * [leetcode 讲解资源推荐](basics/recommend.md)
   * [leetcode 题目对照表](basics/leetcode.md)
 * [leetcode](leetcode/readme.md)
   * [1. 两数之和](leetcode/1.two-sum.md)
