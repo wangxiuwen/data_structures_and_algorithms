@@ -180,7 +180,7 @@
 * [26. 删除排序数组中的重复项](leetcode/26.remove-duplicates-from-sorted-array.md)
 * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
-* [41. 缺失的第一个正数](leetcode/41.first-missing-positive.md)
+* [41. 缺失的第一个正数(数组)](leetcode/41.first-missing-positive.md)
 * [42. 接雨水](leetcode/42.trapping-rain-water.md)
 * [46. 全排列](leetcode/46.permutations.md)
 * [47. 全排列 II](leetcode/47.permutations-ii.md)
@@ -215,7 +215,6 @@
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
 
-41. 缺失的第一个正数（数组）	
 23. 合并K个排序链表（链表）
 32. 最长有效的括号(栈)	
 150. 逆波兰表达式求值(栈)
