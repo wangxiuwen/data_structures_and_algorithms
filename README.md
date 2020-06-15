@@ -180,6 +180,7 @@
 * [26. 删除排序数组中的重复项](leetcode/26.remove-duplicates-from-sorted-array.md)
 * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
+* [41. 缺失的第一个正数](leetcode/41.first-missing-positive.md)
 * [42. 接雨水](leetcode/42.trapping-rain-water.md)
 * [46. 全排列](leetcode/46.permutations.md)
 * [47. 全排列 II](leetcode/47.permutations-ii.md)
@@ -199,6 +200,7 @@
 * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. ](leetcode/164.maximum-gap.md)
+* [169. 多数元素（数组）](leetcode/169.majority-element.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
@@ -213,7 +215,6 @@
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
 
-169. 多数元素（数组）	
 41. 缺失的第一个正数（数组）	
 23. 合并K个排序链表（链表）
 32. 最长有效的括号(栈)	
@@ -231,7 +232,6 @@
 112. 路径总和
 10. 正则表达式匹配（贪心、分治、动态规划）	
 64. 最小路径和（贪心、分治、动态规划）
-322. 零钱兑换（贪心、分治、动态规划）	
 121. 买卖股票的最佳时机（贪心、分治、动态规划）
 152. 乘积最大子数组（贪心、分治、动态规划）	
 120. 三角形最小路径和（贪心、分治、动态规划）
@@ -268,7 +268,6 @@
 10. 正则表达式匹配	
 46. 全排列
 93. 复原IP地址	
-322. 零钱兑换
 72. 编辑距离	
 300. 最长上升子序列
 1206. 设计跳表
