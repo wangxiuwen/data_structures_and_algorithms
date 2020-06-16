@@ -172,12 +172,14 @@
 * [15. 三数之和](leetcode/15.3sum.md)
 * [17. 电话号码的字母组合](leetcode/17.letter-combinations-of-a-phone-number.md)
 * [19. 删除链表的倒数第N个节点](leetcode/19.remove-nth-node-from-end-of-list.md)
-* [20. 有效的括号](leetcode/20.valid-parentheses.md)
+* [20. 有效的括号(栈)](leetcode/20.valid-parentheses.md)
 * [21. 合并两个有序链表](leetcode/21.merge-two-sorted-lists.md)
 * [22. 括号生成](leetcode/22.generate-parentheses.md)
+* [23. 合并K个排序链表](leetcode/23.merge-k-sorted-lists.md)
 * [24. 两两交换链表中的节点](leetcode/24.swap-nodes-in-pairs.md)
 * [25. K 个一组翻转链表](leetcode/25.reverse-nodes-in-k-group.md)
 * [26. 删除排序数组中的重复项](leetcode/26.remove-duplicates-from-sorted-array.md)
+* [32. 最长有效的括号(栈)](leetcode/longest-valid-parentheses.md)
 * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
 * [41. 缺失的第一个正数(数组)](leetcode/41.first-missing-positive.md)
@@ -198,6 +200,7 @@
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
 * [141. 环形链表](leetcode/141.linked-list-cycle.md)
+* [146. LRU缓存机制](leetcode/146.lru-cache.md)
 * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. ](leetcode/164.maximum-gap.md)
@@ -206,6 +209,7 @@
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
+* [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
 * [239. 滑动窗口最大值](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [283. 移动零](leetcode/283.move-zeroes.md)
@@ -219,16 +223,26 @@
 
 
 
-23. 合并K个排序链表（链表）
-32. 最长有效的括号(栈)	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
 150. 逆波兰表达式求值(栈)
-20. 有效的括号（栈）	
 239. 滑动窗口最大值（栈）	
 641. 设计循环双端队列（队列）
 344. 反转字符串（字符串）
 151. 翻转字符串里的单词（字符串）	
 8. 字符串转换整数 (atoi)（字符串）
-226. 翻转二叉树（二叉树）	
 104. 二叉树的最大深度（二叉树）
 98. 验证二叉搜索树（二叉树）	
 112. 路径总和
@@ -237,7 +251,6 @@
 121. 买卖股票的最佳时机（贪心、分治、动态规划）
 152. 乘积最大子数组（贪心、分治、动态规划）	
 120. 三角形最小路径和（贪心、分治、动态规划）
-146. LRU缓存机制	
 234. 回文链表	
 206. 反转链表
 21. 合并两个有序链表	
