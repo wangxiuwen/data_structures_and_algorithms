@@ -190,6 +190,7 @@
 * [62. 不同路径](leetcode/62.unique-paths.md)
 * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
 * [66. 加一](leetcode/66.plus-one.md)
+* [69. x 的平方根(二分查找)](leetcode/69.sqrtx.md)
 * [70. 爬楼梯](leetcode/70.climbing-stairs.md)
 * [75. ](leetcode/75.sort-colors.md)
 * [78. 子集](leetcode/78.subsets.md)
@@ -201,6 +202,7 @@
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. ](leetcode/164.maximum-gap.md)
 * [169. 多数元素（数组）](leetcode/169.majority-element.md)
+* [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
@@ -223,7 +225,6 @@
 20. 有效的括号（栈）	
 239. 滑动窗口最大值（栈）	
 641. 设计循环双端队列（队列）
-69. x 的平方根（二分查找）	
 344. 反转字符串（字符串）
 151. 翻转字符串里的单词（字符串）	
 8. 字符串转换整数 (atoi)（字符串）
@@ -244,7 +245,6 @@
 876. 链表的中间结点	
 42. 接雨水
 933. 最近的请求次数	
-179. 最大数
 56. 合并区间	
 75. 颜色分类
 164. 最大间距	
