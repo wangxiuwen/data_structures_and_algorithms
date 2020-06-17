@@ -198,6 +198,7 @@
 * [78. 子集](leetcode/78.subsets.md)
 * [79. ](leetcode/179.largest-number.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
+* [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
 * [141. 环形链表](leetcode/141.linked-list-cycle.md)
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
@@ -226,8 +227,6 @@
 
 
 
-
-102. 二叉树的层序遍历	
 104. 二叉树的最大深度（二叉树）
 98. 验证二叉搜索树（二叉树）
 455. 分发饼干
