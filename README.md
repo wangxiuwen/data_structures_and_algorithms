@@ -224,11 +224,9 @@
 * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
+* [933. 最近的请求次数(队列)](leetcode/933.number-of-recent-calls.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
-
-
-933. 最近的请求次数	
 56. 合并区间	
 449. 序列化和反序列化二叉搜索树	
 150. 逆波兰表达式求值(栈)
