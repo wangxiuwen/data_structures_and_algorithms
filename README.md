@@ -198,6 +198,7 @@
 * [78. 子集](leetcode/78.subsets.md)
 * [79. ](leetcode/179.largest-number.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
+* [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
 * [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
 * [104. 二叉树的最大深度](leetcode/104.maximum-depth-of-binary-tree.md) 
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
@@ -226,8 +227,6 @@
 
 
 
-
-98. 验证二叉搜索树（二叉树）
 455. 分发饼干
 344. 反转字符串（字符串）
 933. 最近的请求次数	
