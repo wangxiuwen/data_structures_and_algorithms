@@ -194,9 +194,9 @@
 * [66. 加一](leetcode/66.plus-one.md)
 * [69. x 的平方根(二分查找)](leetcode/69.sqrtx.md)
 * [70. 爬楼梯](leetcode/70.climbing-stairs.md)
-* [75. ](leetcode/75.sort-colors.md)
+* [74. 搜索二维矩阵](leetcode/74.search-a-2d-matrix.md)
+* [75. 颜色分类](leetcode/75.sort-colors.md)
 * [78. 子集](leetcode/78.subsets.md)
-* [79. ](leetcode/179.largest-number.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
 * [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
 * [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
@@ -207,7 +207,7 @@
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
 * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
-* [164. ](leetcode/164.maximum-gap.md)
+* [164. 最大间距](leetcode/164.maximum-gap.md)
 * [169. 多数元素（数组）](leetcode/169.majority-element.md)
 * [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
@@ -215,7 +215,7 @@
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
-* [239. 滑动窗口最大值](leetcode/239.sliding-window-maximum.md)
+* [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [283. 移动零](leetcode/283.move-zeroes.md)
 * [297. 二叉树的序列化与反序列化](leetcode/297.serialize-and-deserialize-binary-tree.md)
@@ -237,8 +237,8 @@
 
 
 
+632. 最小区间	
 150. 逆波兰表达式求值(栈)
-239. 滑动窗口最大值（栈）	
 641. 设计循环双端队列（队列）
 151. 翻转字符串里的单词（字符串）
 8. 字符串转换整数 (atoi)（字符串）
@@ -247,15 +247,10 @@
 64. 最小路径和（贪心、分治、动态规划）
 152. 乘积最大子数组（贪心、分治、动态规划）	
 120. 三角形最小路径和（贪心、分治、动态规划）
-75. 颜色分类
-164. 最大间距	
-33. 搜索旋转排序数组
 34. 在排序数组中查找元素的第一个和最后一个位置	
-74. 搜索二维矩阵
 451. 根据字符出现频率排序	
 966. 元音拼写检查器	
 705. 设计哈希集合
-632. 最小区间	
 347. 前 K 个高频元素
 295. 数据流的中位数	
 208. 实现 Trie (前缀树)
@@ -265,7 +260,6 @@
 435. 无重叠区间	
 53. 最大子序和
 10. 正则表达式匹配	
-46. 全排列
 93. 复原IP地址	
 72. 编辑距离	
 300. 最长上升子序列
