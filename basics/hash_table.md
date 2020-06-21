@@ -6,6 +6,7 @@
 
 
 Map: key - value对，key不重复
+
 ```java
 new HashMap()/ new TreeMap()
 map.set(key, value)

@@ -182,14 +182,16 @@
 * [26. 删除排序数组中的重复项](leetcode/26.remove-duplicates-from-sorted-array.md)
 * [32. 最长有效的括号(栈)](leetcode/longest-valid-parentheses.md)
 * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
+* [34. 在排序数组中查找元素的第一个和最后一个位置](leetcode/34.find-first-and-last-position-of-element-in-sorted-array.md)
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
 * [41. 缺失的第一个正数(数组)](leetcode/41.first-missing-positive.md)
 * [42. 接雨水](leetcode/42.trapping-rain-water.md)
 * [46. 全排列](leetcode/46.permutations.md)
 * [47. 全排列 II](leetcode/47.permutations-ii.md)
 * [50. Pow(x, n)](leetcode/50.powx-n.md)
+* [51. n 皇后](leetcode/51.n-queens.md)
 * [53. 最大子序和](leetcode/53.maximum-subarray.md)
-* [56.](leetcode/56.merge-intervals.md)
+* [56. 合并区间](leetcode/56.merge-intervals.md)
 * [62. 不同路径](leetcode/62.unique-paths.md)
 * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
 * [66. 加一](leetcode/66.plus-one.md)
@@ -199,32 +201,40 @@
 * [75. 颜色分类](leetcode/75.sort-colors.md)
 * [78. 子集](leetcode/78.subsets.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
+* [94. 二叉树的中序遍历](leetcode/94.binary-tree-inorder-traversal.md)
 * [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
 * [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
-* [104. 二叉树的最大深度](leetcode/104.maximum-depth-of-binary-tree.md) 
+* [104. 二叉树的最大深度](leetcode/104.maximum-depth-of-binary-tree.md)
+* [111. 二叉树的最小深度](leetcode/111.minimum-depth-of-binary-tree.md)
+* [120. 三角形最小路径和(贪心、分治、动态规划)](leetcode/120.triangle.md)
 * [121. 买卖股票的最佳时机(贪心、分治、动态规划)](leetcode/121.best-time-to-buy-and-sell-stock.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
 * [141. 环形链表](leetcode/141.linked-list-cycle.md)
+* [142. 环形链表 II](leetcode/142.linked-list-cycle-ii.md)
+* [144. 二叉树的前序遍历](leetcode/144.binary-tree-preorder-traversal.md)
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
 * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. 最大间距](leetcode/164.maximum-gap.md)
-* [169. 多数元素（数组）](leetcode/169.majority-element.md)
+* [169. 多数元素(数组)](leetcode/169.majority-element.md)
 * [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
+* [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
 * [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [283. 移动零](leetcode/283.move-zeroes.md)
 * [297. 二叉树的序列化与反序列化](leetcode/297.serialize-and-deserialize-binary-tree.md)
 * [322. 零钱兑换(贪心、分治、动态规划)](leetcode/322.coin-change.md)
 * [344. 反转字符串](leetcode/344.reverse-string.md)
+* [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [449. 序列化和反序列化二叉搜索树](leetcode/449.serialize-and-deserialize-bst.md)
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
 * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
+* [589. N叉树的前序遍历](leetcode/589.n-ary-tree-preorder-traversal.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
 * [933. 最近的请求次数(队列)](leetcode/933.number-of-recent-calls.md)
@@ -239,14 +249,12 @@
 
 64. 最小路径和（贪心、分治、动态规划）
 152. 乘积最大子数组（贪心、分治、动态规划）	
-120. 三角形最小路径和（贪心、分治、动态规划）
 632. 最小区间	
 150. 逆波兰表达式求值(栈)
 641. 设计循环双端队列（队列）
 151. 翻转字符串里的单词（字符串）
 8. 字符串转换整数 (atoi)（字符串）
 112. 路径总和
-34. 在排序数组中查找元素的第一个和最后一个位置	
 451. 根据字符出现频率排序	
 966. 元音拼写检查器	
 705. 设计哈希集合
@@ -258,7 +266,6 @@
 621. 任务调度器	
 435. 无重叠区间	
 53. 最大子序和
-10. 正则表达式匹配	
 93. 复原IP地址	
 72. 编辑距离	
 300. 最长上升子序列
