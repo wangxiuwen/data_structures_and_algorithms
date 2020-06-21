@@ -121,30 +121,31 @@
 
 ### 贪心算法
 
-455   
-121  
+* [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)    
+* [121. 买卖股票的最佳时机(贪心、分治、动态规划)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 55  
 
 ### 二分查找
 
-367(动态规划，位运算也可)  
-33  
-74  
+* [367(动态规划，位运算也可)]() 
+* [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
+* [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) 
+
 
 ### 动态规划
 
-62  
-120  
+* [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) 
+* [120. 三角形最小路径和(贪心、分治、动态规划)](https://leetcode-cn.com/problems/triangle)  
 
 ### 搜索
 
-70(爬楼梯、动态规划， 递归去重也可，转换零钱兑换问题)  
+* [70. 爬楼梯(动态规划， 递归去重也可，转换零钱兑换问题)](https://leetcode-cn.com/problems/climbing-stairs/)
 
 ### 剪枝
 
-22(动态规划，剪枝)  
-51(n皇后)  
-* [36. 有效的数独](leetcode/36.valid-sudoku.md) 
+* [22. 括号生成(动态规划，剪枝) ](https://leetcode-cn.com/problems/generate-parentheses/) 
+* [51(n皇后)](https://leetcode-cn.com/problems/n-queens/)
+* [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) 
 37  
 
 ### 启发式搜索
@@ -155,13 +156,13 @@
 
 191  
 231  
-51(n皇后终极解法)  
+* [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
 388
 
 ### 排序
 
-242  
-56  
+* [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+* [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 493  
 
 
@@ -251,26 +252,32 @@
 152. 乘积最大子数组（贪心、分治、动态规划）	
 632. 最小区间	
 150. 逆波兰表达式求值(栈)
+
 641. 设计循环双端队列（队列）
 151. 翻转字符串里的单词（字符串）
 8. 字符串转换整数 (atoi)（字符串）
 112. 路径总和
+
 451. 根据字符出现频率排序	
 966. 元音拼写检查器	
 705. 设计哈希集合
 347. 前 K 个高频元素
+
 295. 数据流的中位数	
 208. 实现 Trie (前缀树)
 421. 数组中两个数的最大异或值	
 402. 移掉K位数字
+
 621. 任务调度器	
 435. 无重叠区间	
 53. 最大子序和
 93. 复原IP地址	
+
 72. 编辑距离	
 300. 最长上升子序列
 1206. 设计跳表
 207. 课程表
+
 787. K 站中转内最便宜的航班
 743. 网络延迟时间
 28. 实现 strStr()	
