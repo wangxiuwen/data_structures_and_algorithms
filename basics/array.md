@@ -18,3 +18,20 @@
 Java ArrayList无法存储基本类型，比如int、long，需要封装为Integer、Long类，而Autoboxing、Unboxing则有一定的性能消耗，所以如果特别关注性能，或者希望使用基本类型，就可以选用数组
 如果数据大小事先已知，并且对数据的操作非常简单，用不到ArrayList提供的大部分方法，也可以直接使用数组
 当要表示多维数组时，用数组往往会更加直观。比如Object[][] array；而用容器的话则需要这样定义：ArrayList<ArrayList > array
+
+
+## 数组寻址
+
+一维
+
+```Java
+a[k]_address = base_address + k * type_size;
+```
+
+二维
+
+对于 `m * n` 的 二维数组， `a[i][j](i < m, j < n)` 的地址为:
+
+```Java
+a[i][j]_address = base_address + i * n * typesize + j * type_size
+`````
