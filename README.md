@@ -123,7 +123,7 @@
 
 * [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)    
 * [121. 买卖股票的最佳时机(贪心、分治、动态规划)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
-55  
+* [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 
 ### 二分查找
 
@@ -192,6 +192,7 @@
 * [50. Pow(x, n)](leetcode/50.powx-n.md)
 * [51. n 皇后](leetcode/51.n-queens.md)
 * [53. 最大子序和](leetcode/53.maximum-subarray.md)
+* [55. 跳跃游戏](leetcode/55.jump-game.md)
 * [56. 合并区间](leetcode/56.merge-intervals.md)
 * [62. 不同路径](leetcode/62.unique-paths.md)
 * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
