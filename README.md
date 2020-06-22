@@ -157,7 +157,7 @@
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
-* [388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)
+* [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)  
 
 ### 排序
 
@@ -234,6 +234,7 @@
 * [297. 二叉树的序列化与反序列化](leetcode/297.serialize-and-deserialize-binary-tree.md)
 * [322. 零钱兑换(贪心、分治、动态规划)](leetcode/322.coin-change.md)
 * [344. 反转字符串](leetcode/344.reverse-string.md)
+* [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [449. 序列化和反序列化二叉搜索树](leetcode/449.serialize-and-deserialize-bst.md)
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
