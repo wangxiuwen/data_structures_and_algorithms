@@ -154,7 +154,7 @@
 
 ### 位运算
 
-* [190. 颠倒二进制位]()
+* [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
@@ -222,6 +222,7 @@
 * [169. 多数元素(数组)](leetcode/169.majority-element.md)
 * [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
+* [190. 颠倒二进制位](leetcode/190.reverse-bits.md)
 * [191. 位1的个数](leetcode/191.number-of-1-bits.md)  
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
