@@ -157,7 +157,7 @@
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
-388
+* [388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)
 
 ### 排序
 
@@ -221,9 +221,11 @@
 * [169. 多数元素(数组)](leetcode/169.majority-element.md)
 * [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
+* [191. 位1的个数](leetcode/191.number-of-1-bits.md)  
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
+* [231. 2的幂](leetcode/231.power-of-two.md)  
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
 * [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
 * [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
