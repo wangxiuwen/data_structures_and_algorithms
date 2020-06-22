@@ -154,8 +154,8 @@
 
 ### 位运算
 
-191  
-231  
+* [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
+* [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
 388
 
