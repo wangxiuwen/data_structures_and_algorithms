@@ -154,6 +154,7 @@
 
 ### 位运算
 
+* [190. 颠倒二进制位]()
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
@@ -233,6 +234,7 @@
 * [283. 移动零](leetcode/283.move-zeroes.md)
 * [297. 二叉树的序列化与反序列化](leetcode/297.serialize-and-deserialize-binary-tree.md)
 * [322. 零钱兑换(贪心、分治、动态规划)](leetcode/322.coin-change.md)
+* [338. 比特位计数](leetcode/338.counting-bits.md)  
 * [344. 反转字符串](leetcode/344.reverse-string.md)
 * [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
