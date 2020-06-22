@@ -146,7 +146,7 @@
 * [22. 括号生成(动态规划，剪枝) ](https://leetcode-cn.com/problems/generate-parentheses/) 
 * [51(n皇后)](https://leetcode-cn.com/problems/n-queens/)
 * [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) 
-37  
+* [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 
 ### 启发式搜索
 
@@ -163,7 +163,7 @@
 
 * [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 * [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
-493  
+* [493. 翻转对(树状数组/归并排序)](https://leetcode-cn.com/problems/reverse-pairs/)  
 
 
 ## leetcode 解法
@@ -235,6 +235,7 @@
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [449. 序列化和反序列化二叉搜索树](leetcode/449.serialize-and-deserialize-bst.md)
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
+* [493. 翻转对(树状数组/归并排序)](leetcode/493.reverse-pairs.md)  
 * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
 * [589. N叉树的前序遍历](leetcode/589.n-ary-tree-preorder-traversal.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
