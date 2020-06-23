@@ -186,6 +186,7 @@
 * [33. 搜索旋转排序数组](leetcode/33.search-in-rotated-sorted-array.md)
 * [34. 在排序数组中查找元素的第一个和最后一个位置](leetcode/34.find-first-and-last-position-of-element-in-sorted-array.md)
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
+* [37. 解数独](leetcode/37.sudoku-solver.md)
 * [41. 缺失的第一个正数(数组)](leetcode/41.first-missing-positive.md)
 * [42. 接雨水](leetcode/42.trapping-rain-water.md)
 * [46. 全排列](leetcode/46.permutations.md)
