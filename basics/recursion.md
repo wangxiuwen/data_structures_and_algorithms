@@ -34,6 +34,15 @@
 
 笼统地讲，递归代码都能用迭代循环来替换  
 
+## 递归一般流程
+
+```
+1. terminator
+2. process current logic
+3. drill down
+4. 恢复当前层
+```
+
 ## python 代码模版
 
 ```python
@@ -71,6 +80,67 @@ public void recur(int level, int param) {
 
   // restore current status
 }
+```
+
+## DFS 递归写法
+
+```python
+visited = set()
+
+def dfs(node, visited):
+  # 1. terminator
+  if node in visited:
+    return
+
+  visited.add(node)
+
+  # process_current_logic
+  ...
+
+  for next_node in node.children():
+    if not next_node in visited:
+      dfs(next_node, visited) 
+```
+
+## DFS 递归写法
+
+```python
+def dfs(self, root):
+    if not root:
+      return
+    
+    visited, stack = [], [root]
+
+    while stack:
+      node = stack.pop()
+      visited.add(node)
+
+      process(node)
+
+      nodes = generate_related_nodes(node)
+      stack.push(nodes)
+
+    # other processing work
+
+```
+
+## BFS 代码
+
+```python
+def bfs(self, root):
+  if not root:
+    return
+  
+  visited, queue = [], [root]
+
+  while queue:
+    node = queue.pop()
+    visited.add(node)
+
+    process(node)
+    
+    nodes = generate_related_nodes(node)
+    queue.push(nodes)
 ```
 
 ## 思维要点
