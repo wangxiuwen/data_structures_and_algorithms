@@ -102,7 +102,7 @@ def dfs(node, visited):
       dfs(next_node, visited) 
 ```
 
-## DFS 递归写法
+## DFS 非递归写法
 
 ```python
 def dfs(self, root):
@@ -143,7 +143,7 @@ def bfs(self, root):
     queue.push(nodes)
 ```
 
-## Java 的写法
+## Java DFS 层序遍历
 
 ```Java
 public List<List<Integer>> levelOrder(TreeNode root) {
@@ -182,3 +182,9 @@ private void travel(TreeNode root, int level, List<List<Integer>> results) {
 
 [22.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 [70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+
+
+## 其它资料
+
+[AlphaZero Explained](https://nikcheerla.github.io/deeplearningschool/2018/01/01/AlphaZero-Explained/)  
+[棋类复杂度](https://en.wikipedia.org/wiki/Game_complexity)
