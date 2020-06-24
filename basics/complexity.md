@@ -105,3 +105,23 @@ O(n!): Factorial 阶乘
 针对这种特殊的场景，引入一种更加简单的分析方法：摊还分析法，通过摊还分析得到的时间复杂度叫均摊时间复杂度  
 均摊时间复杂度一般都等于最好情况时间复杂度  
 
+
+
+## 常见时间复杂度
+
+O(log(n))
+
+```Java
+for (int i = 1; i < n; i = i*2) {
+  System.out.println("Hey- I'm busy looking at:" + i);
+}
+```
+
+O(k^n)
+
+```Java
+int fib(int n) {
+  if (n <= 2) return n;
+  return fib(n-1) + fib(n-2);
+}
+```

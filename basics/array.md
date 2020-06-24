@@ -34,4 +34,11 @@ a[k]_address = base_address + k * type_size;
 
 ```Java
 a[i][j]_address = base_address + i * n * typesize + j * type_size
-`````
+```
+
+## 参考链接
+
+[ArrayList 源码分析](http://developer.classpath.org/doc/java/util/ArrayList-source.html)  
+[Linked List 的标准实现代码](https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/)  
+[Linked List 示例代码](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/code/LinkedList.java)
+[LinkedList源码分析](http://developer.classpath.org/doc/java/util/LinkedList-source.html)

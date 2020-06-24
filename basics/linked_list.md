@@ -131,6 +131,8 @@ head = null;
 ## 跳跃表
 
 <http://redisbook.com/preview/skiplist/content.html>
+<https://www.zhihu.com/question/20202931>
+
 
 ## 练习题
 
