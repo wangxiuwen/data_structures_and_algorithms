@@ -124,6 +124,12 @@
 * [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
 * [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)  
 
+## A* Search
+
+* [1091. 二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)
+* [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/) 
+* [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+
 ### 贪心算法
 
 * [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)    
