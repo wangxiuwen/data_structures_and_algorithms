@@ -282,6 +282,7 @@
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
 * [933. 最近的请求次数(队列)](leetcode/933.number-of-recent-calls.md)
 * [1091. 二进制矩阵中的最短路径(dp, bfs, A*)](leetcode/1091.shortest-path-in-binary-matrix.md)
+* [1137. 第 N 个泰波那契数](leetcode/1137.n-th-tribonacci-number.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
 

@@ -94,8 +94,3 @@ public void recur(int level, int param) {
 [22.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 [70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 
-
-## 其它资料
-
-[AlphaZero Explained](https://nikcheerla.github.io/deeplearningschool/2018/01/01/AlphaZero-Explained/)  
-[棋类复杂度](https://en.wikipedia.org/wiki/Game_complexity)
