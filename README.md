@@ -121,6 +121,7 @@
 ## 双向 BFS/DFS
 
 * [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
+* [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)  
 
 
 ### 贪心算法
@@ -245,6 +246,7 @@
 * [344. 反转字符串](leetcode/344.reverse-string.md)
 * [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
+* [433. 最小基因变化](leetcode/433.minimum-genetic-mutation.md)  
 * [449. 序列化和反序列化二叉搜索树](leetcode/449.serialize-and-deserialize-bst.md)
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
 * [493. 翻转对(树状数组/归并排序)](leetcode/493.reverse-pairs.md)  
