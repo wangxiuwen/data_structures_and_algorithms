@@ -179,7 +179,8 @@
 
 ### 启发式搜索(A*)
 
-1091  
+* [1091. 二进制矩阵中的最短路径(dp, bfs, A*)](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)
+
 
 ### 位运算
 
@@ -277,8 +278,10 @@
 * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
 * [589. N叉树的前序遍历](leetcode/589.n-ary-tree-preorder-traversal.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
+* [773. 滑动谜题](leetcode/773.sliding-puzzle.md)
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
 * [933. 最近的请求次数(队列)](leetcode/933.number-of-recent-calls.md)
+* [1091. 二进制矩阵中的最短路径(dp, bfs, A*)](leetcode/1091.shortest-path-in-binary-matrix.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
 
