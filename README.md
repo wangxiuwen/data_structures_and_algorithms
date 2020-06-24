@@ -4,10 +4,12 @@
 
 分治、回溯、递归、动态规划
 
+
 ## 资源
 
 * [资源推荐](resources/recommand.md)
 * [附件](resources/attachments.md)
+
 
 ## 基础理论
 
@@ -31,7 +33,9 @@
 * [高级搜索](basics/search.md)
 * [刷题技巧](basics/skills.md)
 
+
 ## 题目链接
+
 
 ### 数组
 
