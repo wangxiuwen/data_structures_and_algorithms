@@ -23,6 +23,7 @@
 * [递归](basics/recursion.md)
 * [树](basics/tree.md)
 * [深度优先搜索 & 广度优先搜索](basics/bst.md)
+* [启发式搜索](basics/Astar.md)
 * [分治 回溯](basics/devide_conquer.md)
 * [贪心算法 Greedy](basics/greedy.md)
 * [二分查找](basics/binary.md)
@@ -123,7 +124,6 @@
 * [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
 * [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)  
 
-
 ### 贪心算法
 
 * [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)    
@@ -153,7 +153,7 @@
 * [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) 
 * [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 
-### 启发式搜索
+### 启发式搜索(A*)
 
 1091  
 
