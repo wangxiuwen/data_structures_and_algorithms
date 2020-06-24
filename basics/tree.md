@@ -7,6 +7,10 @@
 
 看是否有环，有环为图
 
+## 平衡树
+
+<https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree>
+
 
 ## 示例代码
 
