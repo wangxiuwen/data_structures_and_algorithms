@@ -2,6 +2,9 @@
 
 ## 二叉树
 
+## 问题
+
+树的面试题一般都是递归的，这是为什么？
 
 ## 树和图的差别
 
@@ -24,16 +27,23 @@
 
 二叉搜索树 查询操作时间复杂度 O(logn)
 
-## 问题
-
-树的面试题一般都是递归的，这是为什么？
-
 ##  AVL 树
 
 1. 发明者 G. M. Adelson-Velsky 和 Evgenii Landis
 2. Balance Factor(平衡因子): 是它的左子树的高度减去它的右子树的高度(有时相反)。 balance factor = {-1, 0, 1}
 3. 通过旋转操作来进行平衡(四种)
 4. [平衡二叉树](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
+
+###  AVL 树旋转操作
+
+1. 左旋 
+2. 右旋 
+3. 左右旋 
+4. 右左旋
+
+<https://en.wikipedia.org/wiki/Tree_rotation#/media/File:Tree_Rebalancing.gif>
+
+![https://en.wikipedia.org/wiki/Tree_rotation#/media/File:Tree_Rebalancing.gif](tree/Tree_Rebalancing.gif)
 
 ### AVL 总结
 
