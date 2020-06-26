@@ -94,3 +94,7 @@ public void recur(int level, int param) {
 [22.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 [70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 
+
+## 其它资源
+
+[如何优雅地计算斐波那契数列](https://time.geekbang.org/dailylesson/detail/100028406)
