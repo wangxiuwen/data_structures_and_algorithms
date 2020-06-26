@@ -32,6 +32,7 @@
 * [动态规划](basics/dynamic_programming.md)
 * [高级搜索](basics/search.md)
 * [刷题技巧](basics/skills.md)
+* [位运算](basics/bitwise.md)
 
 
 ## 题目链接
@@ -115,7 +116,6 @@
 * [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)  
 * [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)  
 
-
 ### 分治
 
 * [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) 
@@ -187,8 +187,10 @@
 * [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
-* [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/)  
+* [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/) 
+* [](https://leetcode-cn.com/problems/n-queens-ii/)
 * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)  
+
 
 ### 排序
 
