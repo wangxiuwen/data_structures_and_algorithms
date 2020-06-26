@@ -6,6 +6,11 @@
 
 树的面试题一般都是递归的，这是为什么？
 
+## 可视化 DEMO
+
+[树的遍历](https://visualgo.net/zh/bst)
+[二叉搜索树 demo](https://visualgo.net/zh/bst?slide=1)
+ 
 ## 树和图的差别
 
 看是否有环，有环为图
@@ -26,6 +31,7 @@
 中序遍历：升序排列
 
 二叉搜索树 查询操作时间复杂度 O(logn)
+
 
 ##  AVL 树
 
