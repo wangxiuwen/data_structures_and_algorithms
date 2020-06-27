@@ -125,7 +125,7 @@
 * [78. 子集](https://leetcode-cn.com/problems/subsets/) 
 * [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
 * [51. N皇后](https://leetcode-cn.com/problems/n-queens/)  
-
+* [169. 多数元素(可以用哈希表做数学统计，也可以用分治, 用分治再做一遍)](leetcode/169.majority-element.md)
 
 ### BFS/DFS
 
@@ -257,7 +257,7 @@
 * [152. 最小栈](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. 最大间距](leetcode/164.maximum-gap.md)
-* [169. 多数元素(数组)](leetcode/169.majority-element.md)
+* [169. 多数元素](leetcode/169.majority-element.md)
 * [179. 最大数](leetcode/179.largest-number.md)
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [190. 颠倒二进制位](leetcode/190.reverse-bits.md)
