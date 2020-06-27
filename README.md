@@ -169,7 +169,7 @@
 使用二分查找，寻找一个半有序数组 [4, 5, 6, 7, 0, 1, 2] 中间无序的地方
 
 * [69. x 的平方根(二分查找)](https://leetcode-cn.com/problems/sqrtx/)
-* [367(动态规划，位运算也可)](https://leetcode-cn.com/problems/valid-perfect-square/) 
+* [367. 有效的完全平方数(动态规划，位运算也可)](https://leetcode-cn.com/problems/valid-perfect-square/) 
 * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
 * [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) 
 * [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -287,6 +287,7 @@
 * [322. 零钱兑换(贪心、分治、动态规划)](leetcode/322.coin-change.md)
 * [338. 比特位计数](leetcode/338.counting-bits.md)  
 * [344. 反转字符串](leetcode/344.reverse-string.md)
+* [367. 有效的完全平方数(动态规划，位运算也可)](leetcode/367.valid-perfect-square.md)
 * [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [433. 最小基因变化](leetcode/433.minimum-genetic-mutation.md)  
