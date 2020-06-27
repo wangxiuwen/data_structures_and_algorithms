@@ -4,6 +4,10 @@
 
 分治、回溯、递归、动态规划
 
+## 核心思维
+
+    升维
+    空间换时间
 
 ## 资源
 
@@ -76,7 +80,7 @@
 * [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)   
 * [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   
 * [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  
-* [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)   
+* [239. 滑动窗口最大值(用双指针再做一遍)](https://leetcode-cn.com/problems/sliding-window-maximum/)   
 * [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)    
 
 
@@ -94,7 +98,7 @@
 
 ### 递归
 
-* [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)    
+* [70. 爬楼梯(用换零钱的方法做一遍)](https://leetcode-cn.com/problems/climbing-stairs/)    
 * [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)   
 * [77. 组合](https://leetcode-cn.com/problems/combinations/)  
 * [46. 全排列](https://leetcode-cn.com/problems/permutations/)   
@@ -109,7 +113,7 @@
 * [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  
 * [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)   
 * [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)  
-* [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  
+* [94. 二叉树的中序遍历(用手动维护栈的方式遍历和莫里斯遍历做一遍)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  
 * [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
 * [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)  
 * [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)  
@@ -299,7 +303,6 @@
 632. 最小区间	
 150. 逆波兰表达式求值(栈)
 
-641. 设计循环双端队列（队列）
 151. 翻转字符串里的单词（字符串）
 8. 字符串转换整数 (atoi)（字符串）
 112. 路径总和
