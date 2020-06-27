@@ -39,9 +39,22 @@
 [322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)
 [455.分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 
-Coin Change 特别版本:
 
-当硬币可选集合固定 ： Coins = [20, 10,5,1]  
-求最少可以几个硬币拼出总数。比如 total=36
+## Coin Change 特别版本
+
+### 一
+
+当硬币可选集合固定 ： Coins = [20, 10, 5, 1]  
+求最少可以几个硬币拼出总数。比如 total = 36
 
 前面的硬币是后面的硬币的二倍，每次用最大的即可。
+
+
+### 二
+
+贪心算法的反例
+
+当硬币可选集合固定 ： Coins = [10, 9, 1]  
+求最少可以几个硬币拼出总数。比如 total = 18
+
+最优解为 两个 9, 但是用贪心算法的话, 先用一个 10, 就要用 8 个 1 
