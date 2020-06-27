@@ -96,10 +96,6 @@
 
 * [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)  
 
-## 二分查找
-
-* [69. x 的平方根(二分查找)](https://leetcode-cn.com/problems/sqrtx/)
-
 ### 递归
 
 * [70. 爬楼梯(用换零钱的方法做一遍)](https://leetcode-cn.com/problems/climbing-stairs/)    
@@ -170,9 +166,13 @@
 
 ### 二分查找
 
-* [367(动态规划，位运算也可)]() 
+使用二分查找，寻找一个半有序数组 [4, 5, 6, 7, 0, 1, 2] 中间无序的地方
+
+* [69. x 的平方根(二分查找)](https://leetcode-cn.com/problems/sqrtx/)
+* [367(动态规划，位运算也可)](https://leetcode-cn.com/problems/valid-perfect-square/) 
 * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
 * [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) 
+* [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
 
 ### 动态规划
