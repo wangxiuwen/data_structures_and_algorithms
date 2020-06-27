@@ -2,7 +2,8 @@
 
 1. Wiki 定义
 
-https://en.wikipedia.org/wiki/Dynamic_programming
+<https://en.wikipedia.org/wiki/Dynamic_programming>   
+<https://zh.wikipedia.org/wiki/动态规划>
 
 2. "Simplifying a complicated problem by breaking it down into simpler subproblems"
 (in a recursive manager)
