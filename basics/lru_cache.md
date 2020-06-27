@@ -13,7 +13,11 @@ def add(x, y):
 
 ## 参考资料
 
-<https://www.jianshu.com/p/b1ab4a170c3c>
+<https://www.jianshu.com/p/b1ab4a170c3c>  
+
+[Understanding the Meltdown exploit](https://www.sqlpassion.at/archive/2018/01/06/understanding-the-meltdown-exploit-in-my-own-simple-words/)
+[替换算法总览](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+
 
 ## leetcode
 
