@@ -32,6 +32,7 @@
 * [启发式搜索](basics/Astar.md)
 * [分治 回溯](basics/devide_conquer.md)
 * [贪心算法 Greedy](basics/greedy.md)
+* [bloomfilter](basics/bloomfilter.md)
 * [二分查找](basics/binary.md)
 * [动态规划](basics/dynamic_programming.md)
 * [高级搜索](basics/search.md)
