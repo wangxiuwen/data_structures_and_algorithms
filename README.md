@@ -134,11 +134,14 @@
 * [22. 括号生成(DFS，BFS 也可)](https://leetcode-cn.com/problems/generate-parentheses/)   
 * [200. 岛屿数量(沉岛法)](https://leetcode-cn.com/problems/number-of-islands/)  
 * [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)  
+* [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) 
+* [126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)
+* [529. 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/)
 
 
 ## 双向 BFS/DFS
 
-* [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)  
+* [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) 
 * [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)  
 
 
