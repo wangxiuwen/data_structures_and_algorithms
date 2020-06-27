@@ -154,10 +154,15 @@
 
 ### 贪心算法
 
-* [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)    
+* [455. 分发饼干(贪心)](https://leetcode-cn.com/problems/assign-cookies/)   
+* [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/) 
 * [121. 买卖股票的最佳时机(贪心、分治、动态规划)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
-* [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
-
+* [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  
+* [](https://leetcode-cn.com/problems/jump-game-ii/)  
+* [](https://leetcode-cn.com/problems/lemonade-change/)  
+* [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)  
+* [](https://leetcode-cn.com/problems/walking-robot-simulation/)  
+  
 
 ### 二分查找
 
