@@ -18,7 +18,7 @@ while left <= right:
     # find the target
     break or return result
   elif array[mid] < target:
-    left = mid + 1
+    left = mid + 1 # 左右下界为整型需要加一减一，左右下界如果为实数则直接等于 mid 即可
   else:
     right = mid - 1
 ```
