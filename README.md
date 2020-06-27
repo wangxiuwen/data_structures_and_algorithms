@@ -96,6 +96,9 @@
 
 * [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)  
 
+## 二分查找
+
+* [69. x 的平方根(二分查找)](https://leetcode-cn.com/problems/sqrtx/)
 
 ### 递归
 
