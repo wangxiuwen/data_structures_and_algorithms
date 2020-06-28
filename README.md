@@ -184,8 +184,8 @@
 
 ## 并查集
 
-* [](https://leetcode-cn.com/problems/number-of-islands/)
-* [](https://leetcode-cn.com/problems/friend-circles/)
+* [200. 岛屿数量(染色(沉岛法，dfs/bfs)/并查集)](https://leetcode-cn.com/problems/number-of-islands/)
+* [547. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)
 * [](https://leetcode-cn.com/problems/number-of-islands/)
 * [](https://leetcode-cn.com/problems/surrounded-regions/)
 
@@ -311,6 +311,7 @@
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
 * [493. 翻转对(树状数组/归并排序)](leetcode/493.reverse-pairs.md)  
 * [515. 在每个树行中找最大值](leetcode/515.find-largest-value-in-each-tree-row.md)
+* [547. 朋友圈](leetcode/547.friend-circles.md)
 * [589. N叉树的前序遍历](leetcode/589.n-ary-tree-preorder-traversal.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
 * [773. 滑动谜题](leetcode/773.sliding-puzzle.md)
