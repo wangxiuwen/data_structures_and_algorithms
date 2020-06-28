@@ -227,6 +227,8 @@
 * [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 * [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 * [493. 翻转对(树状数组/归并排序)](https://leetcode-cn.com/problems/reverse-pairs/)  
+* [](https://leetcode-cn.com/problems/relative-sort-array/)  
+* [](https://leetcode-cn.com/problems/design-a-leaderboard/)  
 
 
 ## leetcode 解法
