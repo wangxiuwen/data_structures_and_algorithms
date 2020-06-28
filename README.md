@@ -175,6 +175,10 @@
 * [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) 
 * [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
+### Trie 树
+
+* [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+* [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 
 ### 动态规划
 
@@ -277,6 +281,7 @@
 * [191. 位1的个数](leetcode/191.number-of-1-bits.md)  
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
+* [212. 单词搜索 II](leetcode/212.word-search-ii.md)
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
 * [231. 2的幂](leetcode/231.power-of-two.md)  
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
@@ -327,7 +332,7 @@
 347. 前 K 个高频元素
 
 295. 数据流的中位数	
-208. 实现 Trie (前缀树)
+
 421. 数组中两个数的最大异或值	
 402. 移掉K位数字
 
