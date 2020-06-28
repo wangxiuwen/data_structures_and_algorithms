@@ -28,6 +28,7 @@
 * [LRU Cache](basics/lru_cache.md)
 * [递归](basics/recursion.md)
 * [树](basics/tree.md)
+* [trie 树](basics/trie.md)
 * [深度优先搜索 & 广度优先搜索](basics/bst.md)
 * [启发式搜索](basics/Astar.md)
 * [分治 回溯](basics/devide_conquer.md)

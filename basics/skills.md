@@ -38,7 +38,7 @@ code review
 - clarification 明确数据范围
 - Possible Solution ---> compare(time/space) optimal 所有可能选最优
 - code
-- test cases
+- test cases(正常的测试，边界条件，变态的情况，错误的输入)
 
 
 ## 数据结构
