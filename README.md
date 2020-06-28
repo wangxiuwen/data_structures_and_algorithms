@@ -29,6 +29,7 @@
 * [递归](basics/recursion.md)
 * [树](basics/tree.md)
 * [trie 树](basics/trie.md)
+* [并查集](basics/disjointSet.md)
 * [深度优先搜索 & 广度优先搜索](basics/bst.md)
 * [启发式搜索](basics/Astar.md)
 * [分治 回溯](basics/devide_conquer.md)
@@ -179,6 +180,14 @@
 
 * [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 * [212. 单词搜索 II(分析用 Tire 树方式实现的时间复杂度)](https://leetcode-cn.com/problems/word-search-ii/)
+
+
+## 并查集
+
+* [](https://leetcode-cn.com/problems/friend-circles/)
+* [](https://leetcode-cn.com/problems/number-of-islands/)
+* [](https://leetcode-cn.com/problems/surrounded-regions/)
+
 
 ### 动态规划
 
