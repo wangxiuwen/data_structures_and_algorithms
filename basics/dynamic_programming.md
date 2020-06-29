@@ -10,6 +10,16 @@
 
 3. Divide & Conquer + Optimal substructure 分治+最优子结构
 
+## DP 顺推模板
+
+```
+function DP():
+dp = [][] # 二维情况
+for i = 0 .. M { for j = 0 .. N {
+  dp[i][j] = _Function(dp[i’][j’]...) }
+}
+return dp[M][N];
+```
 
 ## 关键点
 
