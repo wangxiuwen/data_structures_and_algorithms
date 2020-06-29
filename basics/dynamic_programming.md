@@ -31,22 +31,6 @@ return dp[M][N];
 
 转化递归为 递推  
 
-
-## 状态转移方程/动态规划方程/DP方程
-
-```python
-opt[i,j] = opt[i+1,j] + opt[i,j+1]
-```
-
-完整逻辑:
-
-```python
-if a[i,j] == '空地':
-  opt[i+1,j] + opt[i,j+1]
-else:
-  opt[i,j] = 0
-```
-
 ## 动态规划关键点
 
 1. 最优子结构 opt[n] = best_of(opt[n-1]+ opt[n-2], ...)
