@@ -192,8 +192,12 @@
 
 ### 动态规划
 
-* [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) 
-* [120. 三角形最小路径和(贪心、分治、动态规划)](https://leetcode-cn.com/problems/triangle)  
+* [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
+* [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
+* [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
+* [1143.最长公共子序列(贪心、分治、动态规划)](https://leetcode-cn.com/problems/longest-common-subsequence/)  
+* [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
+* [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)  
 
 
 ### 搜索
