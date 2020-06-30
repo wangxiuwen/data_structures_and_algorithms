@@ -232,6 +232,14 @@
 * [](https://leetcode-cn.com/problems/unique-paths-iii/)
 * [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/)
 * [](https://leetcode-cn.com/problems/coin-change-2/)
+* [](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [](https://leetcode-cn.com/problems/maximal-rectangle/)
+* [](https://leetcode-cn.com/problems/distinct-subsequences/)
+* [](https://leetcode-cn.com/problems/race-car/)
+
+
+
+
 
 ### 搜索
 
