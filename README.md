@@ -228,7 +228,7 @@
 * [](https://leetcode-cn.com/problems/jump-game/)
 * [](https://leetcode-cn.com/problems/jump-game-ii/)
 * [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
-* [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
+* [63.不同路径 II(要求写出状态方程)](https://leetcode-cn.com/problems/unique-paths-ii/)  
 * [](https://leetcode-cn.com/problems/unique-paths-iii/)
 * [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/)
 * [](https://leetcode-cn.com/problems/coin-change-2/)
