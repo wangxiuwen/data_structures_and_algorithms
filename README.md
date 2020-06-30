@@ -40,6 +40,7 @@
 * [高级搜索](basics/search.md)
 * [刷题技巧](basics/skills.md)
 * [位运算](basics/bitwise.md)
+* [字符串](basics/strings.md)
 
 
 ## 题目链接
@@ -199,7 +200,7 @@
 * [1143.最长公共子序列(贪心、分治、动态规划)](https://leetcode-cn.com/problems/longest-common-subsequence/)  
 * [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
 * [53. 最大子序和(理解一下分治的做法)](https://leetcode-cn.com/problems/maximum-subarray)  
-* [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+* [152. 乘积最大子数组(贪心，分治，动态规划)](https://leetcode-cn.com/problems/maximum-product-subarray/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
@@ -237,10 +238,6 @@
 * [](https://leetcode-cn.com/problems/distinct-subsequences/)
 * [](https://leetcode-cn.com/problems/race-car/)
 
-
-
-
-
 ### 搜索
 
 * [70. 爬楼梯(动态规划， 递归去重也可，转换零钱兑换问题)](https://leetcode-cn.com/problems/climbing-stairs/)
@@ -274,6 +271,11 @@
 * [493. 翻转对(树状数组/归并排序)](https://leetcode-cn.com/problems/reverse-pairs/)  
 * [](https://leetcode-cn.com/problems/relative-sort-array/)  
 * [](https://leetcode-cn.com/problems/design-a-leaderboard/)  
+
+### 字符串
+
+两个字符串变换问题，一般要转成一个二维数组，两个字符串分别为字符串的行和列
+
 
 
 ## leetcode 解法
@@ -311,6 +313,7 @@
 * [66. 加一](leetcode/66.plus-one.md)
 * [69. x 的平方根(二分查找)](leetcode/69.sqrtx.md)
 * [70. 爬楼梯](leetcode/70.climbing-stairs.md)
+* [72. 编辑距离(重点)](leetcode/72.edit-distance.md) 
 * [74. 搜索二维矩阵](leetcode/74.search-a-2d-matrix.md)
 * [75. 颜色分类](leetcode/75.sort-colors.md)
 * [78. 子集](leetcode/78.subsets.md)
@@ -328,7 +331,7 @@
 * [142. 环形链表 II](leetcode/142.linked-list-cycle-ii.md)
 * [144. 二叉树的前序遍历](leetcode/144.binary-tree-preorder-traversal.md)
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
-* [152. 最小栈](leetcode/152.maximum-product-subarray.md)
+* [152. 乘积最大子数组](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. 最大间距](leetcode/164.maximum-gap.md)
 * [169. 多数元素](leetcode/169.majority-element.md)
@@ -371,13 +374,9 @@
 
 
 
-
-
-
 #### 未整理
 
 64. 最小路径和（贪心、分治、动态规划）
-152. 乘积最大子数组（贪心、分治、动态规划）	
 632. 最小区间	
 150. 逆波兰表达式求值(栈)
 
