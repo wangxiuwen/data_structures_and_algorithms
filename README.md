@@ -198,7 +198,7 @@
 * [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
 * [1143.最长公共子序列(贪心、分治、动态规划)](https://leetcode-cn.com/problems/longest-common-subsequence/)  
 * [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
-* [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)  
+* [53. 最大子序和(理解一下分治的做法)](https://leetcode-cn.com/problems/maximum-subarray)  
 * [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
 * [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/)
 * [](https://leetcode-cn.com/problems/coin-change-2/)
