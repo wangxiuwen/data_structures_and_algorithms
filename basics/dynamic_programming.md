@@ -68,7 +68,7 @@ return dp[M][N];
 [MIT课程】动态规划 I - 最短路径算法(已添加字幕)](https://www.bilibili.com/video/av53233912?from=search&seid=2847395688604491997)
 
 1. 定义子问题
-2. 猜递归方程
+2. 猜递推方程
 3. 合并子问题的解
 4. 递归 & 记忆化搜索 or 建立 DP 状态表(DP table) 自底向上递推
 5. 得到原问题的解
