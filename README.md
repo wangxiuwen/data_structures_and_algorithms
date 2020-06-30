@@ -192,22 +192,14 @@
 
 ### 动态规划
 
-* [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
-* [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
-* [](https://leetcode-cn.com/problems/unique-paths-iii/)
+#### 初级一维
+
+
 * [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
 * [1143.最长公共子序列(贪心、分治、动态规划)](https://leetcode-cn.com/problems/longest-common-subsequence/)  
 * [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
 * [53. 最大子序和(理解一下分治的做法)](https://leetcode-cn.com/problems/maximum-subarray)  
 * [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
-* [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/)
-* [](https://leetcode-cn.com/problems/coin-change-2/)
-* [](https://leetcode-cn.com/problems/perfect-squares/)
-* [72. 编辑距离(重点)](https://leetcode-cn.com/problems/edit-distance/) 
-* [](https://leetcode-cn.com/problems/jump-game/)
-* [](https://leetcode-cn.com/problems/jump-game-ii/)
-* [](https://leetcode-cn.com/problems/house-robber/)
-* [](https://leetcode-cn.com/problems/house-robber-ii/description/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 * [](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
@@ -228,6 +220,19 @@
 * [](https://leetcode-cn.com/problems/minimum-window-substring/)
 * [](https://leetcode-cn.com/problems/burst-balloons/)
 
+#### 高级多维
+
+* [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+* [](https://leetcode-cn.com/problems/house-robber-ii/)
+* [72. 编辑距离(重点)](https://leetcode-cn.com/problems/edit-distance/) 
+* [](https://leetcode-cn.com/problems/perfect-squares/)
+* [](https://leetcode-cn.com/problems/jump-game/)
+* [](https://leetcode-cn.com/problems/jump-game-ii/)
+* [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)  
+* [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)  
+* [](https://leetcode-cn.com/problems/unique-paths-iii/)
+* [322. 零钱兑换(贪心、分治、动态规划)](https://leetcode-cn.com/problems/coin-change/)
+* [](https://leetcode-cn.com/problems/coin-change-2/)
 
 ### 搜索
 
@@ -324,6 +329,7 @@
 * [189. 旋转数组](leetcode/189.rotate-array.md)
 * [190. 颠倒二进制位](leetcode/190.reverse-bits.md)
 * [191. 位1的个数](leetcode/191.number-of-1-bits.md)  
+* [198. 打家劫舍](leetcode/198.house-robber.md)
 * [200. 岛屿数量](leetcode/200.number-of-islands.md)
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
 * [212. 单词搜索 II](leetcode/212.word-search-ii.md)
