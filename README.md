@@ -320,7 +320,7 @@ Palindrome 回文串问题
 其它
 
 * [](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
-* [](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 * [](https://leetcode-cn.com/problems/reverse-string-ii/)
 * [](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 * [](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)

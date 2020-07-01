@@ -3,7 +3,6 @@
 两个字符串变换问题，一般要转成一个二维数组，两个字符串分别为字符串的行和列
 
 
-
 ## 定义及常见操作
 
 [string immutable](https://lemire.me/blog/2017/07/07/are-your-strings-immutable/)
@@ -44,55 +43,6 @@ int main() {
         cout << s[i];
     }
 }
-```
-
-
-Atoi
-
-```Java
-public int myAtoi(String str) {
-    int index = 0, sign = 1, total = 0;
-    //1. Empty string
-    if (str.length() == 0) return 0;
-    // 2. Remove Spaces
-    while (str.charAt(index) == ' ' && index < str.length()) index++;
-    //3. Handle signs
-    if (str.charAt(index) == '+' || str.charAt(index) == '-') {
-        sign = str.charAt(index) == '+' ? 1 : -1;
-        index++;
-    }
-    //4. Convert number and avoid overflow
-    while (index < str.length()) {
-        int digit = str.charAt(index) - '0';
-        if (digit < 0 || digit > 9) break;
-        //check if total will be overflow after 10 times and add digit
-        if (Integer.MAX_VALUE / 10 < total ||
-                Integer.MAX_VALUE / 10 == total && Integer.MAX_VALUE % 10 < digit)
-            return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-        total = 10 * total + digit;
-        index++;
-    }
-    return total * sign;
-}
-```
-
-```python
-class Solution(object): 
-    def myAtoi(self, s):
-        if len(s) == 0 : return 0 
-        ls = list(s.strip())
-
-        sign = -1 
-        
-        if ls[0] == '-' else 1 
-        if ls[0] in ['-','+'] : del ls[0] 
-        
-        ret, i = 0, 0
-        
-        while i < len(ls) and ls[i].isdigit() : 
-            ret = ret*10 + ord(ls[i]) - ord('0') 
-            i += 1
-        return max(-2**31, min(sign * ret,2**31-1))
 ```
 
 ## 高级字符串算法
