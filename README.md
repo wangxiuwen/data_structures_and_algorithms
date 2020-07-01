@@ -297,7 +297,7 @@ Anagram异位词问题
 
 * [](https://leetcode-cn.com/problems/valid-anagram/)
 * [](https://leetcode-cn.com/problems/group-anagrams/)
-* [](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
+* [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
 
 Palindrome 回文串问题
 
@@ -406,6 +406,7 @@ Palindrome 回文串问题
 * [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [433. 最小基因变化](leetcode/433.minimum-genetic-mutation.md)  
+* [438. 找到字符串中所有字母异位词](leetcode/438.find-all-anagrams-in-a-string.md)
 * [449. 序列化和反序列化二叉搜索树](leetcode/449.serialize-and-deserialize-bst.md)
 * [455. 分发饼干(贪心)](leetcode/455.assign-cookies.md)
 * [493. 翻转对(树状数组/归并排序)](leetcode/493.reverse-pairs.md)  
