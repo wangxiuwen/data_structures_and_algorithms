@@ -315,12 +315,11 @@ Palindrome 回文串问题
 
 * [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 * [](https://leetcode-cn.com/problems/wildcard-matching/)
-* [](https://leetcode-cn.com/problems/distinct-subsequences/)
+* [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
 
 其它
 
 * [](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
-* [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 * [](https://leetcode-cn.com/problems/reverse-string-ii/)
 * [](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 * [](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
@@ -331,7 +330,6 @@ Palindrome 回文串问题
 * [](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 * [](https://leetcode-cn.com/problems/wildcard-matching/)
 * [](https://leetcode-cn.com/problems/longest-valid-parentheses)
-* [](https://leetcode-cn.com/problems/distinct-subsequences/)
 
 
 
