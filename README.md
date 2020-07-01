@@ -287,9 +287,9 @@
 字符串操作问题
 
 * [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
-* [](https://leetcode-cn.com/problems/reverse-string/)
+* [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
 * [](https://leetcode-cn.com/problems/reverse-string-ii/)
-* [](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 * [](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
 * [](https://leetcode-cn.com/problems/reverse-only-letters/)
 
@@ -377,6 +377,7 @@ Palindrome 回文串问题
 * [142. 环形链表 II](leetcode/142.linked-list-cycle-ii.md)
 * [144. 二叉树的前序遍历](leetcode/144.binary-tree-preorder-traversal.md)
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
+* [151. 翻转字符串里的单词](leetcode/151.reverse-words-in-a-string.md)
 * [152. 乘积最大子数组](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
 * [164. 最大间距](leetcode/164.maximum-gap.md)
