@@ -247,5 +247,5 @@ KMP算法(Knuth-Morris-Pratt)的思想就是，当子串与目标字符串不匹
 以阮一峰的文章为例，当空格与 D 不匹配时，你其实 知道前面六个字符是 “ABCDAB”。KMP 算法的想法是，设法利用这个已知信息，不要把“搜索位置” 移回已经比较过的位置，
 继续把它向后移，这样就提高了效率。
 
-https://www.bilibili.com/video/av11866460?from=search&seid=17425875345653862171
-http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html
+<https://www.bilibili.com/video/av11866460?from=search&seid=17425875345653862171>  
+<http://www.ruanyifeng.com/blog/2013/05/Knuth–Morris–Pratt_algorithm.html>
