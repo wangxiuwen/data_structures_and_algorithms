@@ -276,11 +276,56 @@
 
 两个字符串变换问题，一般要转成一个二维数组，两个字符串分别为字符串的行和列
 
+基础问题
+
+* [](https://leetcode-cn.com/problems/to-lower-case/)
+* [](https://leetcode-cn.com/problems/length-of-last-word/)
+* [](https://leetcode-cn.com/problems/jewels-and-stones/)
+* [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+* [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+
+字符串操作问题
+
+* [](https://leetcode-cn.com/problems/longest-common-prefix/)
+* [](https://leetcode-cn.com/problems/reverse-string/)
+* [](https://leetcode-cn.com/problems/reverse-string-ii/)
+* [](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
+* [](https://leetcode-cn.com/problems/reverse-only-letters/)
+
+Anagram异位词问题
+
+* [](https://leetcode-cn.com/problems/valid-anagram/)
+* [](https://leetcode-cn.com/problems/group-anagrams/)
+* [](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
+
+Palindrome 回文串问题
+
+* [](https://leetcode-cn.com/problems/valid-palindrome/)
+* [](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+* [](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
+高级问题
+
+* [](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+* [](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [](https://leetcode-cn.com/problems/reverse-string-ii/)
+* [](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
+* [](https://leetcode-cn.com/problems/reverse-only-letters/)
+* [](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
+* [](https://leetcode-cn.com/problems/longest-palindromic-substring/) 
+* [](https://leetcode-cn.com/problems/isomorphic-strings/)
+* [](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+* [](https://leetcode-cn.com/problems/wildcard-matching/)
+* [](https://leetcode-cn.com/problems/longest-valid-parentheses)
+* [](https://leetcode-cn.com/problems/distinct-subsequences/)
 
 
 ## leetcode 解法
 
 * [1. 两数之和](leetcode/1.two-sum.md)
+* [8. 字符串转换整数 (atoi)](leetcode/8.string-to-integer-atoi.md)
 * [10. 正则表达式匹配(贪心、分治、动态规划)](leetcode/10.regular-expression-matching.md)
 * [11. 盛最多水的容器](leetcode/11.container-with-most-water.md)
 * [15. 三数之和](leetcode/15.3sum.md)
@@ -355,6 +400,7 @@
 * [338. 比特位计数](leetcode/338.counting-bits.md)  
 * [344. 反转字符串](leetcode/344.reverse-string.md)
 * [367. 有效的完全平方数(动态规划，位运算也可)](leetcode/367.valid-perfect-square.md)
+* [387. 字符串中的第一个唯一字符](leetcode/387.first-unique-character-in-a-string.md)
 * [388. 文件的最长绝对路径](leetcode/388.longest-absolute-file-path.md)
 * [429. N叉树的层序遍历](leetcode/429.n-ary-tree-level-order-traversal.md)
 * [433. 最小基因变化](leetcode/433.minimum-genetic-mutation.md)  
