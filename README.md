@@ -235,7 +235,7 @@
 * [](https://leetcode-cn.com/problems/coin-change-2/)
 * [](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 * [](https://leetcode-cn.com/problems/maximal-rectangle/)
-* [](https://leetcode-cn.com/problems/distinct-subsequences/)
+* [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
 * [](https://leetcode-cn.com/problems/race-car/)
 
 ### 搜索
@@ -308,7 +308,7 @@ Palindrome 回文串问题
 最长子串、子序列问题
 
 * [](https://leetcode-cn.com/problems/longest-common-subsequence/)
-* [](https://leetcode-cn.com/problems/edit-distance/)
+* [72. 编辑距离(重点)](https://leetcode-cn.com/problems/edit-distance/)
 * [](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 字符串 +DP 问题
@@ -383,6 +383,7 @@ Palindrome 回文串问题
 * [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
 * [104. 二叉树的最大深度](leetcode/104.maximum-depth-of-binary-tree.md)
 * [111. 二叉树的最小深度](leetcode/111.minimum-depth-of-binary-tree.md)
+* [115. 不同的子序列](leetcode/115.distinct-subsequences.md)
 * [120. 三角形最小路径和(贪心、分治、动态规划)](leetcode/120.triangle.md)
 * [121. 买卖股票的最佳时机(贪心、分治、动态规划)](leetcode/121.best-time-to-buy-and-sell-stock.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)

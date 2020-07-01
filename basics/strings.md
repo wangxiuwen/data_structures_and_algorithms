@@ -45,41 +45,7 @@ int main() {
 }
 ```
 
-## 高级字符串算法
-
-最长子串、子序列
-
-1. Longest common sequence(最长子序列) 
-
-https://leetcode-cn.com/problems/longest-common-subsequence/
-
-dp[i][j] = dp[i-1][j-1] + 1 (if s1[i-1] == s2[j-1]) 
-else dp[i][j] = max(dp[i-1][j], dp[i][j-1])
-
-2. Longest common substring (最长子串) 
-
-dp[i][j] = dp[i-1][j-1] + 1 (if s1[i-1] == s2[j-1]) 
-else dp[i][j] = 0
-
-3. Edit distance(编辑距离) 
-
-https://leetcode-cn.com/problems/edit-distance/
-
-https://leetcode-cn.com/problems/longest-palindromic-substring/
-
-1. 暴力 O(n^3)
-2. 中间向两边扩张法 O(n^2) 3. 动态规划
-    首先定义 P(i, j):
-    
-    true s[i, j] 是回文串
-    P(i, j) =
-
-接下来
-
-    P(i, j) = (P(i+1, j-1) && S[i] == S[j])
-
-
-##  字符串 + 递归 or DP
+###  字符串 + 递归 or DP
 
 https://leetcode-cn.com/problems/regular-expression-matching/
 
@@ -88,17 +54,6 @@ https://leetcode-cn.com/problems/regular-expression-matching/
 https://leetcode-cn.com/problems/regular-expression-matching/solution/ji-yu-guan-fang-ti-jie-gen-xiang-xi-de-jiang-jie-b/
 
 https://leetcode-cn.com/problems/wildcard-matching/
-
-
-https://leetcode-cn.com/problems/distinct-subsequences/
-
-1. 暴力递归 
-2. 动态规划
-dp[i][j] 代表 T 前 i 字符串可以由 s 前 j 字符串组成最多个数。
-
-所以动态方程:
-当 S[j] == T[i], dp[i][j] = dp[i-1][j-1] + dp[i][j-1]
-当 S[j] != T[i], dp[i][j] = dp[i][j-1]
 
 
 ##  字符串匹配算法
