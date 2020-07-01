@@ -249,3 +249,11 @@ KMP算法(Knuth-Morris-Pratt)的思想就是，当子串与目标字符串不匹
 
 <https://www.bilibili.com/video/av11866460?from=search&seid=17425875345653862171>  
 <http://www.ruanyifeng.com/blog/2013/05/Knuth–Morris–Pratt_algorithm.html>
+
+
+## 参考链接
+
+[Boyer-Moore 算法](http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html)
+[Sunday 算法](https://blog.csdn.net/u012505432/article/details/52210975)
+[KMP 字符串匹配算法视频](https://www.bilibili.com/video/av11866460?from=search&seid=17425875345653862171)
+[字符串匹配的 KMP 算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)

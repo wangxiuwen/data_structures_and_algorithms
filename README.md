@@ -303,9 +303,21 @@ Palindrome 回文串问题
 
 * [](https://leetcode-cn.com/problems/valid-palindrome/)
 * [](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+* [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
+最长子串、子序列问题
+
+* [](https://leetcode-cn.com/problems/longest-common-subsequence/)
+* [](https://leetcode-cn.com/problems/edit-distance/)
 * [](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
-高级问题
+字符串 +DP 问题
+
+* [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
+* [](https://leetcode-cn.com/problems/wildcard-matching/)
+* [](https://leetcode-cn.com/problems/distinct-subsequences/)
+
+其它
 
 * [](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 * [](https://leetcode-cn.com/problems/string-to-integer-atoi/)
@@ -322,9 +334,11 @@ Palindrome 回文串问题
 * [](https://leetcode-cn.com/problems/distinct-subsequences/)
 
 
+
 ## leetcode 解法
 
 * [1. 两数之和](leetcode/1.two-sum.md)
+* [5. 最长回文子串](leetcode/5.longest-palindromic-substring.md)
 * [8. 字符串转换整数 (atoi)](leetcode/8.string-to-integer-atoi.md)
 * [10. 正则表达式匹配(贪心、分治、动态规划)](leetcode/10.regular-expression-matching.md)
 * [11. 盛最多水的容器](leetcode/11.container-with-most-water.md)
