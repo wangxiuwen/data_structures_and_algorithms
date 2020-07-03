@@ -75,7 +75,7 @@
 
 ### 冒泡排序
 
-```
+```Java
 public void bubbleSort(int[] a) {
 
   if (a.length <= 0) return;
