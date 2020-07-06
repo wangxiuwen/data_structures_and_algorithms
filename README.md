@@ -91,7 +91,11 @@
 * [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  
 * [239. 滑动窗口最大值(用双指针再做一遍)](https://leetcode-cn.com/problems/sliding-window-maximum/)   
 * [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)    
-
+* [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+* [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
+* [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
+* [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+* [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
 
 ### 哈希表
 

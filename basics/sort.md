@@ -189,7 +189,7 @@ public void merge(int[] a, int low, int mid, int high) {
  // 归并排序代码-Java
 public static void mergeSort(int[] array, int left, int right) {
     if (right <= left) return;
-    int mid = (left + right) >> 1; // (left + right) / 2
+    int mid = (left + right) >>> 1; // (left + right) / 2
     mergeSort(array, left, mid);
     mergeSort(array, mid + 1, right);
     merge(array, left, mid, right);
