@@ -41,12 +41,17 @@
 * [贪心算法 Greedy](basics/greedy.md)
 * [bloomfilter](basics/bloomfilter.md)
 * [二分查找](basics/binary.md)
+* [图](basics/grapth.md)
 * [动态规划](basics/dynamic_programming.md)
 * [高级搜索](basics/search.md)
 * [刷题技巧](basics/skills.md)
 * [位运算](basics/bitwise.md)
 * [字符串](basics/strings.md)
 
+## 高级理论
+
+
+* [加密](basics/encryption.md)
 
 ## 题目链接
 

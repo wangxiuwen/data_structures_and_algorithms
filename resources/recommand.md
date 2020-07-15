@@ -42,3 +42,12 @@
 
 [数据结构脑图](http://naotu.baidu.com/file/b832f043e2ead159d584cca4efb19703?token=7a6a56eb2630548c)  
 [算法脑图](http://naotu.baidu.com/file/0a53d3a5343bd86375f348b2831d3610?token=5ab1de1c90d5f3ec)
+
+
+## 练习网站
+
+* [learnGitBranching 项目地址](https://github.com/pcottle/learnGitBranching)  
+* [learnGitBranching 练习地址](https://learngitbranching.js.org/?locale=zh_CN)
+* [正则表达式练习 RegexOne](https://regexone.com)
+* [正则表达式验证 regexr](https://regexr.com)
+* [SQL 练习 SQLZOO](https://sqlzoo.net/)
