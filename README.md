@@ -134,7 +134,8 @@
 * [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
 * [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)  
 * [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)  
-* [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)  
+* [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)    
+* [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 
 ### 分治
 
@@ -398,6 +399,7 @@ Palindrome 回文串问题
 * [115. 不同的子序列](leetcode/115.distinct-subsequences.md)
 * [120. 三角形最小路径和(贪心、分治、动态规划)](leetcode/120.triangle.md)
 * [121. 买卖股票的最佳时机(贪心、分治、动态规划)](leetcode/121.best-time-to-buy-and-sell-stock.md)
+* [124. 二叉树中的最大路径和](leetcode/124.binary-tree-maximum-path-sum.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
 * [127. 单词接龙](leetcode/127.word-ladder.md)  
 * [141. 环形链表](leetcode/141.linked-list-cycle.md)
