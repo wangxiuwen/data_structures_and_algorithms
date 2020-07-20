@@ -136,6 +136,7 @@
 * [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)  
 * [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)    
 * [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+* [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
 
 ### 分治
 
@@ -393,6 +394,7 @@ Palindrome 回文串问题
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
 * [94. 二叉树的中序遍历](leetcode/94.binary-tree-inorder-traversal.md)
 * [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
+* [99. 恢复二叉搜索树](leetcode/99.recover-binary-search-tree.md)
 * [102. 二叉树的层序遍历](leetcode/102.binary-tree-level-order-traversal.md)
 * [104. 二叉树的最大深度](leetcode/104.maximum-depth-of-binary-tree.md)
 * [105. 从前序与中序遍历序列构造二叉树](leetcode/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)
