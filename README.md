@@ -122,7 +122,7 @@
 
 ### 堆
 
-* [](https://leetcode.com/problems/kth-largest-element-in-a- stream/discuss/149050/Java-Priority-Queue)
+* [703. 数据流中的第K大元素(小顶堆)](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 * [](https://leetcode.com/problems/sliding-window-maximum/)
 
 ### 递归
@@ -458,6 +458,7 @@ Palindrome 回文串问题
 * [547. 朋友圈](leetcode/547.friend-circles.md)
 * [589. N叉树的前序遍历](leetcode/589.n-ary-tree-preorder-traversal.md)
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
+* [703. 数据流中的第K大元素](leetcode/703.kth-largest-element-in-a-stream.md)
 * [773. 滑动谜题](leetcode/773.sliding-puzzle.md)
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
 * [933. 最近的请求次数(队列)](leetcode/933.number-of-recent-calls.md)
