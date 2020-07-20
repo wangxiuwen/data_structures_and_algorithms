@@ -15,18 +15,13 @@
 
 >Disjoint Set、Bloom Filter、LRU Cache
 
-算法:
-
->
-
 
 ![algorithm_and_data_structure](./algorithm_and_data_structure/algorithm_and_data_structure.jpg)
 
-
-算法可视化
+## 算法可视化
 
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
-其他人的笔记
+## 其他人的笔记
 
 https://github.com/saber/algorithm

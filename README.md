@@ -28,6 +28,7 @@
 * [链表 linked list](basics/linked_list.md)
 * [队列](basics/queue.md)
 * [栈](basics/stack.md)
+* [heap](basic/heap.md)
 * [哈希表](basics/hash_table.md)
 * [排序](basics/sort.md)
 * [LRU Cache](basics/lru_cache.md)
@@ -112,6 +113,17 @@
 ### 队列
 
 * [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)  
+
+
+### 队列/栈
+
+* [](https://leetcode.com/problems/implement-queue-using-stacks/)  
+* [](https://leetcode.com/problems/implement-stack-using-queues/)  
+
+### 堆
+
+* [](https://leetcode.com/problems/kth-largest-element-in-a- stream/discuss/149050/Java-Priority-Queue)
+* [](https://leetcode.com/problems/sliding-window-maximum/)
 
 ### 递归
 
