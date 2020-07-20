@@ -5,7 +5,10 @@
 这个映射函数叫做散列函数(hash function)，存放记录的数组叫做哈希表(或散列表)
 
 
-Map: key - value对，key不重复
+
+## Java HashMap
+
+key - value对，key不重复
 
 ```java
 new HashMap()/ new TreeMap()
@@ -16,7 +19,9 @@ map.size()
 map.clear()
 ```
 
-Set： 不重复元素集合
+## Java HashSet
+
+不重复元素集合
 
 ```java
 new HashSet()/ new TreeSet()
@@ -25,8 +30,32 @@ set.delete(value)
 set.hash(value)
 ```
 
-> python 中 map 为 `dict`， set 是 `set`
+## python map
 
+`dict`
+
+hashmap = {key: value}
+
+## python set
+
+`set`
+
+
+## c++ map
+
+```c++
+std:unordered_map
+std:map
+```
+
+## c#
+
+```c#
+Dictonary<TKey, TValue>
+Hashtable
+StringDictionary
+SortedDictionary
+```
 
 ## 源码阅读
 
