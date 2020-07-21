@@ -59,13 +59,14 @@
 
 ### 数组
 
-*  [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)    
-*  [66. 加一](https://leetcode-cn.com/problems/plus-one/)    
-*  [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)   
-*  [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)   
-*  [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)   
-*  [15. 三数之和](https://leetcode-cn.com/problems/3sum/) (高频老题)   
-*  [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome)
+* [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)    
+* [66. 加一](https://leetcode-cn.com/problems/plus-one/)    
+* [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)   
+* [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)   
+* [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)   
+* [15. 三数之和(高频老题)](https://leetcode-cn.com/problems/3sum/)
+* [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
+* [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome)
 
 
 ### 链表
@@ -371,6 +372,7 @@ Palindrome 回文串问题
 * [14. 最长公共前缀](leetcode/14.longest-common-prefix.md)
 * [15. 三数之和](leetcode/15.3sum.md)
 * [17. 电话号码的字母组合](leetcode/17.letter-combinations-of-a-phone-number.md)
+* [18. 四数之和](leetcode/18.4sum.md)
 * [19. 删除链表的倒数第N个节点](leetcode/19.remove-nth-node-from-end-of-list.md)
 * [20. 有效的括号(栈)](leetcode/20.valid-parentheses.md)
 * [21. 合并两个有序链表](leetcode/21.merge-two-sorted-lists.md)
