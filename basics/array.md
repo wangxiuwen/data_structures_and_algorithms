@@ -36,9 +36,75 @@ a[k]_address = base_address + k * type_size;
 a[i][j]_address = base_address + i * n * typesize + j * type_size
 ```
 
+## Java ArrayList 拷贝
+
+
+### 浅拷贝
+
+
+```Java
+List<Integer> l2 = new ArrayList<>(l1);
+```
+
+```Java
+List<Integer> l2 = new ArrayList<>();
+l2.addAll(l1);
+```
+
+### clone 拷贝
+
+```Java
+class CloneTest {
+    static class Person implements Cloneable {
+
+        int age;
+
+        public Person(int age) {
+            this.age = age; 
+        }
+
+        @Override
+        protected Object clone() throws CloneNotSupportedException {
+            return super.clone();
+        }
+
+    }
+
+    public static void main(String[] args) {
+        List<Person> l3 = new ArrayList<>();
+        List<Person> l4 = new ArrayList<>();
+        for (Person person : l3) {
+            try {
+                l4.add((Person) person.clone());
+            } catch (CloneNotSupportedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+
+```
+
+### 深拷贝
+
+```Java
+public static <T> List<T> deepCopy(List<T> src) throws IOException, ClassNotFoundException {
+    ByteArrayOutputStream byteOut = new ByteArrayOutputStream();
+    ObjectOutputStream out = new ObjectOutputStream(byteOut);
+    out.writeObject(src);
+
+    ByteArrayInputStream byteIn = new ByteArrayInputStream(byteOut.toByteArray());
+    ObjectInputStream in = new ObjectInputStream(byteIn);
+
+    List<T> copy_list = (List<T>) in.readObject();
+    return copy_list;
+}
+```
+
 ## 参考链接
 
 [ArrayList 源码分析](http://developer.classpath.org/doc/java/util/ArrayList-source.html)  
 [Linked List 的标准实现代码](https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/)  
 [Linked List 示例代码](http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/code/LinkedList.java)
-[LinkedList源码分析](http://developer.classpath.org/doc/java/util/LinkedList-source.html)
+[LinkedList源码分析](http://developer.classpath.org/doc/java/util/LinkedList-source.html)  
+[ArrayList的深拷贝与浅拷贝](https://www.cnblogs.com/liusandao/p/12345208.html)
