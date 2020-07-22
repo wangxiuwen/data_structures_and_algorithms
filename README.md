@@ -291,7 +291,7 @@
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
 * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/) 
-* [](https://leetcode-cn.com/problems/n-queens-ii/)
+* [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
 
 
 ### 排序
@@ -394,6 +394,7 @@ Palindrome 回文串问题
 * [49. 字母异位词分组](leetcode/49.group-anagrams.md)  
 * [50. Pow(x, n)](leetcode/50.powx-n.md)
 * [51. n 皇后](leetcode/51.n-queens.md)
+* [52. N皇后 II](leetcode/52.n-queens-ii.md)
 * [53. 最大子序和](leetcode/53.maximum-subarray.md)
 * [55. 跳跃游戏](leetcode/55.jump-game.md)
 * [56. 合并区间](leetcode/56.merge-intervals.md)
