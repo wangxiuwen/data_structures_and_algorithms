@@ -19,13 +19,21 @@ Trie 树的核心思想是空间换时间。 利用字符串的公共前缀来�
 ```Java
 static final int ALPHABET_SIZE = 256;
 static class TrieNode {
+    public char val;
+    public boolean isWord;
     TrieNode[] children = new TrieNode[ALPHABET_SIZE];
+    
     boolean isEndOfWord = false;
-    TrieNode () {
+
+    public TrieNode () {}
+
+    TrieNode (char c) {
         isEndOfWord = false;
+        TrieNode node = new TrieNode();
+        node.val = c;
         for (int i = 0; i < ALPHABET_SIZE; i++) {
             children[i] = null;
-        }   
+        } 
     }
 }
 ```
@@ -40,3 +48,4 @@ def __init__(self):
     self.isEndOfWord = False
 ```
 
+         
