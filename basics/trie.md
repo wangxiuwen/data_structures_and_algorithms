@@ -6,8 +6,8 @@
 
 ## 基本性质
 
-1. 结点本身不存完整单词;
-2. 从根结点到某一结点，路径上经过的字符连接起来，为该结点对应的 字符串;
+1. 根节点不包含字符，除根节点外每个节点都只包含一个字符或不包含字符，结点本身不存完整单词;
+2. 从根结点到某一结点，路径上经过的字符连接起来，为该结点对应的字符串;
 3. 每个结点的所有子结点路径代表的字符都不相同。
 
 ## 核心思想
@@ -31,30 +31,12 @@ static class TrieNode {
 ```
 
 ```python
-class Trie(object):
-    def __init__(self): 
-        self.root = {} 
-        self.end_of_word = "#"
-    
-    def insert(self, word): 
-        node = self.root
-        for char in word:
-            node = node.setdefault(char, {}) 
-        node[self.end_of_word] = self.end_of_word
+# TrieNode:
+def __init__(self):
+    self.children = [None] * ALPHABET_SIZE
 
-    def search(self, word): node = self.root
-        for char in word:
-            if char not in node:
-                return False
-            node = node[char]
-        return self.end_of_word in node
-
-    def startsWith(self, prefix): 
-        node = self.root
-        for char in prefix:
-            if char not in node:
-                return False
-            node = node[char]
-        return True
+    # isEndOfWord is True if node represent
+    # the end of the word
+    self.isEndOfWord = False
 ```
 
