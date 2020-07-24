@@ -145,7 +145,7 @@ class UnionFind(object):
                     self.count += 1
     
     def find(self, i):
-        if self.parent[i] != i
+        if self.parent[i] != i:
             self.parent[i] = self.find(self.parent[i])
         return self.parent[i]
     
