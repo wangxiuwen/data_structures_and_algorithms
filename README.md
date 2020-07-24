@@ -217,7 +217,6 @@
 
 * [200. 岛屿数量(染色(沉岛法，dfs/bfs)/并查集)](https://leetcode-cn.com/problems/number-of-islands/)
 * [547. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)
-* [](https://leetcode-cn.com/problems/number-of-islands/)
 * [](https://leetcode-cn.com/problems/surrounded-regions/)
 
 
