@@ -15,9 +15,9 @@ def add(x, y):
 
 <https://www.jianshu.com/p/b1ab4a170c3c>  
 
-[Understanding the Meltdown exploit](https://www.sqlpassion.at/archive/2018/01/06/understanding-the-meltdown-exploit-in-my-own-simple-words/)
-[替换算法总览](https://en.wikipedia.org/wiki/Cache_replacement_policies)
-
+[Understanding the Meltdown exploit](https://www.sqlpassion.at/archive/2018/01/06/understanding-the-meltdown-exploit-in-my-own-simple-words/)    
+[缓存文件置换机制](https://en.wikipedia.org/wiki/Cache_replacement_policies)  
+[缓存文件置换机制 中文](https://zh.wikipedia.org/wiki/快取⽂文件置換機制)  
 
 ## leetcode
 

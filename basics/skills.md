@@ -35,12 +35,12 @@ code review
 
 ## 切题四件套
 
-- clarification 明确题意(数据范围)
-- Possible Solution 
-    - compare(time/space) 
-    - optimal 所有可能选最优
-- code
-- test cases(正常的测试，边界条件，变态的情况，错误的输入)
+- clarification 明确题意(询问题目细节、边界条件、可能的极端错误情况，即数据范围)
+- Possible Solution (所有可能的解法都和面试官沟通一遍)
+    - compare(time/space) (时间复杂度 & 空间复杂度)
+    - optimal 所有可能选最优 (最优解)
+- code (写代码)
+- test cases(测试用例: 正常的测试，边界条件，变态的情况，错误的输入)
 
 
 ## 数据结构

@@ -18,7 +18,7 @@
 
 * [资源推荐](resources/recommand.md)
 * [附件](resources/attachments.md)
-
+* [刷题技巧](basics/skills.md)
 
 ## 基础理论
 
@@ -45,17 +45,14 @@
 * [图](basics/grapth.md)
 * [动态规划](basics/dynamic_programming.md)
 * [高级搜索](basics/search.md)
-* [刷题技巧](basics/skills.md)
 * [位运算](basics/bitwise.md)
 * [字符串](basics/strings.md)
 
 ## 高级理论
 
-
 * [加密](basics/encryption.md)
 
 ## 题目链接
-
 
 ### 数组
 
@@ -67,7 +64,6 @@
 * [15. 三数之和(高频老题)](https://leetcode-cn.com/problems/3sum/)
 * [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
 * [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome)
-
 
 ### 链表
 
@@ -84,11 +80,9 @@
 * [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)  
 * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
 
-
 ### 数组/链表
 
 * [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  
-
 
 ### 栈
 
@@ -110,11 +104,9 @@
 * [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  
 * [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)   
 
-
 ### 队列
 
 * [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)  
-
 
 ### 队列/栈
 
@@ -170,19 +162,16 @@
 * [126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)
 * [529. 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/)
 
-
 ## 双向 BFS/DFS
 
 * [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) 
 * [433. 最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)  
-
 
 ## A* Search
 
 * [1091. 二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)
 * [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/) 
 * [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
-
 
 ### 贪心算法
 
@@ -212,18 +201,15 @@
 * [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 * [212. 单词搜索 II(分析用 Tire 树方式实现的时间复杂度)](https://leetcode-cn.com/problems/word-search-ii/)
 
-
 ## 并查集
 
 * [200. 岛屿数量(染色(沉岛法，dfs/bfs)/并查集)](https://leetcode-cn.com/problems/number-of-islands/)
 * [547. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)
 * [](https://leetcode-cn.com/problems/surrounded-regions/)
 
-
 ### 动态规划
 
 #### 初级一维
-
 
 * [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
 * [1143.最长公共子序列(贪心、分治、动态规划)](https://leetcode-cn.com/problems/longest-common-subsequence/)  
@@ -282,7 +268,6 @@
 
 * [1091. 二进制矩阵中的最短路径(dp, bfs, A*)](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)
 
-
 ### 位运算
 
 * [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
@@ -291,7 +276,6 @@
 * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)  
 * [51. N皇后(n皇后终极解法)](https://leetcode-cn.com/problems/n-queens/) 
 * [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
-
 
 ### 排序
 
@@ -359,8 +343,6 @@ Palindrome 回文串问题
 * [](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 * [](https://leetcode-cn.com/problems/wildcard-matching/)
 * [](https://leetcode-cn.com/problems/longest-valid-parentheses)
-
-
 
 ## leetcode 解法
 
@@ -471,7 +453,6 @@ Palindrome 回文串问题
 * [1091. 二进制矩阵中的最短路径(dp, bfs, A*)](leetcode/1091.shortest-path-in-binary-matrix.md)
 * [1137. 第 N 个泰波那契数](leetcode/1137.n-th-tribonacci-number.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
-
 
 
 #### 未整理
