@@ -114,7 +114,37 @@ O(n!): Factorial 阶乘
 
 ## 常见时间复杂度
 
-O(log(n))
+### O(1)
+
+```Java
+int n = 1000;
+System.out.println("Hey - your input is: " + n);
+```
+
+```Java
+int n = 1000;
+System.out.println("Hey - your input is: " + n); System.out.println("Hmm.. I'm doing more stuff with: " + n); System.out.println("And more: " + n);
+```
+
+### O(N)
+
+```Java
+for (int = 1; i<=n; i++) {
+  System.out.println("Hey - I'm busy looking at: " + i);
+}
+```
+
+### O(N^2)
+
+```Java
+for (int i = 1; i <= n; i++) { 
+  for (int j = 1; j <=n; j++) {
+    System.out.println("Hey - I'm busy looking at: " + i + " and " + j); 
+  }
+}
+```
+
+### O(log(n))
 
 ```Java
 for (int i = 1; i < n; i = i*2) {
@@ -122,11 +152,19 @@ for (int i = 1; i < n; i = i*2) {
 }
 ```
 
-O(k^n)
+### O(k^n)
 
 ```Java
 int fib(int n) {
   if (n <= 2) return n;
   return fib(n-1) + fib(n-2);
+}
+```
+
+### O(N!)
+
+```Java
+for (int i = 1; i <= factorial(n); i++){ 
+  System.out.println("Hey - I'm busy looking at: " + i);
 }
 ```
