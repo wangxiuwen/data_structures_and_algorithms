@@ -130,3 +130,9 @@ top tips vscode/vscode 使用技巧
 
 找最近重复子问题
 找最优重复性(动态规划)
+
+
+## 其它生活中的例子
+
+1. 凯利公式 Kelly Formula
+2. 博弈论 Game Theory 
