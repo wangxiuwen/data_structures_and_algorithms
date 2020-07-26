@@ -110,7 +110,7 @@
 
 ### 队列/栈
 
-* [](https://leetcode.com/problems/implement-queue-using-stacks/)  
+* [232. 用栈实现队列](https://leetcode.com/problems/implement-queue-using-stacks/)  
 * [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/)  
 
 ### 堆
@@ -426,6 +426,7 @@ Palindrome 回文串问题
 * [225. 用队列实现栈](leetcode/225.implement-stack-using-queues.md)  
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
 * [231. 2的幂](leetcode/231.power-of-two.md)  
+* [232. 用栈实现队列](leetcode/232.implement-queue-using-stacks.md)
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
 * [235. 二叉搜索树的最近公共祖先](leetcode/235.lowest-common-ancestor-of-a-binary-search-tree.md)
 * [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
