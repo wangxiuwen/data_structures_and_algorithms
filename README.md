@@ -200,6 +200,7 @@
 ### Trie 树
 
 * [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+* [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 * [212. 单词搜索 II(分析用 Tire 树方式实现的时间复杂度)](https://leetcode-cn.com/problems/word-search-ii/)
 
 ## 并查集
@@ -389,6 +390,7 @@ Palindrome 回文串问题
 * [74. 搜索二维矩阵](leetcode/74.search-a-2d-matrix.md)
 * [75. 颜色分类](leetcode/75.sort-colors.md)
 * [78. 子集](leetcode/78.subsets.md)
+* [79. 单词搜索](leetcode/79.word-search.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
 * [94. 二叉树的中序遍历](leetcode/94.binary-tree-inorder-traversal.md)
 * [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
