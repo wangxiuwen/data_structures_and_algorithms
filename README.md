@@ -80,6 +80,8 @@
 * [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   
 * [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)  
 * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
+* [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/submissions/)
+
 
 ### 数组/链表
 
@@ -465,6 +467,10 @@ Palindrome 回文串问题
 * [1137. 第 N 个泰波那契数](leetcode/1137.n-th-tribonacci-number.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
+
+## 程序员面试经典 解法
+
+* [面试题 02.07. 链表相交](golden/intersection-of-two-linked-lists-lcci.md)
 
 #### 未整理
 
