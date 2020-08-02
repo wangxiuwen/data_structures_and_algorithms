@@ -394,6 +394,7 @@ Palindrome 回文串问题
 * [78. 子集](leetcode/78.subsets.md)
 * [79. 单词搜索](leetcode/79.word-search.md)
 * [84. 柱状图中最大的矩形](leetcode/84.largest-rectangle-in-histogram.md)
+* [88. 合并两个有序数组](leetcode/88.merge-sorted-array.md)
 * [94. 二叉树的中序遍历](leetcode/94.binary-tree-inorder-traversal.md)
 * [98. 验证二叉搜索树](leetcode/98.validate-binary-search-tree.md)
 * [99. 恢复二叉搜索树](leetcode/99.recover-binary-search-tree.md)
