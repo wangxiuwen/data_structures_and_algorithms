@@ -80,6 +80,8 @@
 * [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   
 * [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)  
 * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
+* [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) 
+* [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 * [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/submissions/)
 
 
@@ -382,6 +384,7 @@ Palindrome 回文串问题
 * [53. 最大子序和](leetcode/53.maximum-subarray.md)
 * [55. 跳跃游戏](leetcode/55.jump-game.md)
 * [56. 合并区间](leetcode/56.merge-intervals.md)
+* [61. 旋转链表](leetcode/61.rotate-list.md) 
 * [62. 不同路径](leetcode/62.unique-paths.md)
 * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
 * [66. 加一](leetcode/66.plus-one.md)
@@ -435,6 +438,7 @@ Palindrome 回文串问题
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
 * [235. 二叉搜索树的最近公共祖先](leetcode/235.lowest-common-ancestor-of-a-binary-search-tree.md)
 * [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
+* [237. 删除链表中的节点](leetcode/237.delete-node-in-a-linked-list.md)
 * [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [283. 移动零](leetcode/283.move-zeroes.md)
