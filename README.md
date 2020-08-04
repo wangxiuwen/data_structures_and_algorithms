@@ -273,6 +273,7 @@
 
 ### 位运算
 
+* [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 * [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  
 * [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)  
@@ -409,6 +410,7 @@ Palindrome 回文串问题
 * [124. 二叉树中的最大路径和](leetcode/124.binary-tree-maximum-path-sum.md)
 * [125. 验证回文串](leetcode/125.valid-palindrome.md)
 * [127. 单词接龙](leetcode/127.word-ladder.md)  
+* [136. 只出现一次的数字](leetcode/136.single-number.md)
 * [141. 环形链表](leetcode/141.linked-list-cycle.md)
 * [142. 环形链表 II](leetcode/142.linked-list-cycle-ii.md)
 * [144. 二叉树的前序遍历](leetcode/144.binary-tree-preorder-traversal.md)

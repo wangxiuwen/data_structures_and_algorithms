@@ -15,7 +15,7 @@
 - x ^ 0 =x
 - x ^ 1s = ~x // 注意 1s = ~0
 - x ^ (~x) = 1s  (1s 这里指二进制全1)
-- x ^ x= 0 // interesting and important!
+- x ^ x = 0 // interesting and important!
 - c = a ^ b => a ^ c = b, b ^ c = a // 交换两个数
 - a ^ b ^ c = a ^ (b ^ c) = (a ^ b) ^ c // associative
 
