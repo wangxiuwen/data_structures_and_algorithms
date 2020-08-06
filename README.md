@@ -64,7 +64,9 @@
 * [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 * [15. 三数之和(高频老题)](https://leetcode-cn.com/problems/3sum/)
 * [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
+* [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
 * [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome)
+* [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 
 ### 链表
 
@@ -361,6 +363,7 @@ Palindrome 回文串问题
 * [11. 盛最多水的容器](leetcode/11.container-with-most-water.md)
 * [14. 最长公共前缀](leetcode/14.longest-common-prefix.md)
 * [15. 三数之和](leetcode/15.3sum.md)
+* [16. 最接近的三数之和](leetcode/16.3sum-closest.md)
 * [17. 电话号码的字母组合](leetcode/17.letter-combinations-of-a-phone-number.md)
 * [18. 四数之和](leetcode/18.4sum.md)
 * [19. 删除链表的倒数第N个节点](leetcode/19.remove-nth-node-from-end-of-list.md)
@@ -443,6 +446,7 @@ Palindrome 回文串问题
 * [235. 二叉搜索树的最近公共祖先](leetcode/235.lowest-common-ancestor-of-a-binary-search-tree.md)
 * [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
 * [237. 删除链表中的节点](leetcode/237.delete-node-in-a-linked-list.md)
+* [238. 除自身以外数组的乘积](leetcode/238.product-of-array-except-self.md)
 * [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [283. 移动零](leetcode/283.move-zeroes.md)
