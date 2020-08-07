@@ -84,6 +84,7 @@
 * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
 * [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) 
 * [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+* [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 * [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/submissions/)
 
 
