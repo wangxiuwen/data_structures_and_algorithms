@@ -423,6 +423,7 @@ Palindrome 回文串问题
 * [142. 环形链表 II](leetcode/142.linked-list-cycle-ii.md)
 * [144. 二叉树的前序遍历](leetcode/144.binary-tree-preorder-traversal.md)
 * [146. LRU缓存机制](leetcode/146.lru-cache.md)
+* [148. 排序链表](leetcode/148.sort-list.md)
 * [151. 翻转字符串里的单词](leetcode/151.reverse-words-in-a-string.md)
 * [152. 乘积最大子数组](leetcode/152.maximum-product-subarray.md)
 * [155. 最小栈](leetcode/155.min-stack.md)
