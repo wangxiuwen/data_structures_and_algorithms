@@ -122,6 +122,7 @@
 
 ### 堆
 
+* [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 * [703. 数据流中的第K大元素(小顶堆)](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 * [239. 滑动窗口最大值(栈)](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -150,6 +151,7 @@
 * [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)    
 * [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 * [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
+* [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 
 ### 分治
 
@@ -440,8 +442,10 @@ Palindrome 回文串问题
 * [206. 反转列表](leetcode/206.reverse-linked-list.md)
 * [208. 实现 Trie (前缀树)](leetcode/208.implement-trie-prefix-tree.md)
 * [212. 单词搜索 II](leetcode/212.word-search-ii.md)
+* [215. 数组中的第K个最大元素](leetcode/215.kth-largest-element-in-an-array.md)
 * [225. 用队列实现栈](leetcode/225.implement-stack-using-queues.md)  
 * [226. 翻转二叉树](leetcode/226.invert-binary-tree.md)
+* [230. 二叉搜索树中第K小的元素](leetcode/230.kth-smallest-element-in-a-bst.md)
 * [231. 2的幂](leetcode/231.power-of-two.md)  
 * [232. 用栈实现队列](leetcode/232.implement-queue-using-stacks.md)
 * [234. 回文链表](leetcode/234.palindrome-linked-list.md)
