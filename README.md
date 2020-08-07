@@ -383,6 +383,7 @@ Palindrome 回文串问题
 * [36. 有效的数独](leetcode/36.valid-sudoku.md)
 * [37. 解数独](leetcode/37.sudoku-solver.md)
 * [41. 缺失的第一个正数(数组)](leetcode/41.first-missing-positive.md)
+* [43. 字符串相乘](leetcode/43.multiply-strings.md)
 * [42. 接雨水](leetcode/42.trapping-rain-water.md)
 * [46. 全排列](leetcode/46.permutations.md)
 * [47. 全排列 II](leetcode/47.permutations-ii.md)
