@@ -104,6 +104,7 @@
 * [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
 * [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
 * [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+* [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 ### 哈希表
 
@@ -480,6 +481,7 @@ Palindrome 回文串问题
 * [590. N叉树的后序遍历](leetcode/590.n-ary-tree-postorder-traversal.md)
 * [703. 数据流中的第K大元素](leetcode/703.kth-largest-element-in-a-stream.md)
 * [714. 买卖股票的最佳时机含手续费](leetcode/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+* [739. 每日温度](leetcode/739.daily-temperatures.md)
 * [746. 使用最小花费爬楼梯](leetcode/746.min-cost-climbing-stairs.md)
 * [773. 滑动谜题](leetcode/773.sliding-puzzle.md)
 * [876. 链表的中间结点](leetcode/876.middle-of-the-linked-list.md)
