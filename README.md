@@ -56,7 +56,7 @@
 
 ### 数组
 
-* [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)    
+* [1. 两数之和](https://leetcode-cn.com/problems/two-sum/ "两数之和")    
 * [66. 加一](https://leetcode-cn.com/problems/plus-one/)    
 * [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)   
 * [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)   
