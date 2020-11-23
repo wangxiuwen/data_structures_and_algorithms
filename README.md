@@ -10,13 +10,12 @@
 
 ## leetcode 解法
 
-* [1. 两数之和](leetcode/1.two-sum.md)
+
 * [5. 最长回文子串](leetcode/5.longest-palindromic-substring.md)
 * [5. 最长回文子串](leetcode/5.longest-palindromic-substring.md)
 * [7. 整数反转](leetcode/7.reverse-integer.md)
 * [8. 字符串转换整数 (atoi)](leetcode/8.string-to-integer-atoi.md)
 * [10. 正则表达式匹配(贪心、分治、动态规划)](leetcode/10.regular-expression-matching.md)
-* [11. 盛最多水的容器](leetcode/11.container-with-most-water.md)
 * [14. 最长公共前缀](leetcode/14.longest-common-prefix.md)
 * [15. 三数之和](leetcode/15.3sum.md)
 * [16. 最接近的三数之和](leetcode/16.3sum-closest.md)
@@ -50,7 +49,6 @@
 * [61. 旋转链表](leetcode/61.rotate-list.md) 
 * [62. 不同路径](leetcode/62.unique-paths.md)
 * [63. 不同路径 II](leetcode/63.unique-paths-ii.md)  
-* [66. 加一](leetcode/66.plus-one.md)
 * [69. x 的平方根(二分查找)](leetcode/69.sqrtx.md)
 * [70. 爬楼梯](leetcode/70.climbing-stairs.md)
 * [72. 编辑距离(重点)](leetcode/72.edit-distance.md) 
