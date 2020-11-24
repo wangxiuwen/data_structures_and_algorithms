@@ -17,9 +17,7 @@
 * [8. 字符串转换整数 (atoi)](leetcode/8.string-to-integer-atoi.md)
 * [10. 正则表达式匹配(贪心、分治、动态规划)](leetcode/10.regular-expression-matching.md)
 * [14. 最长公共前缀](leetcode/14.longest-common-prefix.md)
-* [16. 最接近的三数之和](leetcode/16.3sum-closest.md)
 * [17. 电话号码的字母组合](leetcode/17.letter-combinations-of-a-phone-number.md)
-* [18. 四数之和](leetcode/18.4sum.md)
 * [19. 删除链表的倒数第N个节点](leetcode/19.remove-nth-node-from-end-of-list.md)
 * [20. 有效的括号(栈)](leetcode/20.valid-parentheses.md)
 * [21. 合并两个有序链表](leetcode/21.merge-two-sorted-lists.md)
@@ -101,7 +99,6 @@
 * [235. 二叉搜索树的最近公共祖先](leetcode/235.lowest-common-ancestor-of-a-binary-search-tree.md)
 * [236. 二叉树的最近公共祖先](leetcode/236.lowest-common-ancestor-of-a-binary-tree.md)
 * [237. 删除链表中的节点](leetcode/237.delete-node-in-a-linked-list.md)
-* [238. 除自身以外数组的乘积](leetcode/238.product-of-array-except-self.md)
 * [239. 滑动窗口最大值(栈)](leetcode/239.sliding-window-maximum.md)
 * [242. 有效的字母异位词](leetcode/242.valid-anagram.md)
 * [292. Nim 游戏](leetcode/292.nim-game.md)
@@ -140,32 +137,4 @@
 
 * [面试题 02.07. 链表相交](golden/intersection-of-two-linked-lists-lcci.md)
 
-#### 未整理
 
-64. 最小路径和（贪心、分治、动态规划）
-632. 最小区间	
-150. 逆波兰表达式求值(栈)
-
-8. 字符串转换整数 (atoi)（字符串）
-112. 路径总和
-451. 根据字符出现频率排序	
-
-966. 元音拼写检查器	
-705. 设计哈希集合
-347. 前 K 个高频元素
-
-295. 数据流的中位数	
-421. 数组中两个数的最大异或值
-402. 移掉K位数字
-
-621. 任务调度器	
-435. 无重叠区间	
-93. 复原IP地址
-
-1206. 设计跳表
-207. 课程表
-787. K 站中转内最便宜的航班
-
-743. 网络延迟时间
-28. 实现 strStr()
-30. 串联所有单词的子串
