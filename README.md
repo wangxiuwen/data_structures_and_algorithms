@@ -120,9 +120,3 @@
 * [1137. 第 N 个泰波那契数](leetcode/1137.n-th-tribonacci-number.md)
 * [1143. 最长公共子序列](leetcode/1143.longest-common-subsequence.md)
 
-
-## 程序员面试经典 解法
-
-* [面试题 02.07. 链表相交](golden/intersection-of-two-linked-lists-lcci.md)
-
-
