@@ -1,10 +1,3 @@
-## 基础理论
-
-https://www.wangxiuwen.com/article/2020/11/23/15.html
-
-## leetcode 题目分类对照表
-
-https://www.wangxiuwen.com/article/2020/11/23/12.html
 
 ## 附件
 
